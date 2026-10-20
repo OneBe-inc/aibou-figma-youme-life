@@ -141,7 +141,7 @@ function interactive(html,variant){
  }
  const panels=[...document.querySelectorAll('[data-name^="p-index_company-panel -"]')];
  panels.forEach((el,i)=>{for(const e of el.querySelectorAll('[data-name*="Button /"]'))link(e,'https://you-me-life.co.jp/'+['outline/','history/','vision/'][i],'詳しく見る');});
- for(const el of document.querySelectorAll('[data-name^="c-bnr-rich"]')){const about=el.textContent.includes('3分');link(el,'https://you-me-life.co.jp/'+(about?'about/':'anniversary/'),about?'3分でわかるユーミーらいふ':'50周年特設ページ');}
+ for(const el of document.querySelectorAll('[data-name^="c-bnr-rich"]')){const about=!!el.closest('.section-business');link(el,'https://you-me-life.co.jp/'+(about?'about/':'anniversary/'),about?'3分でわかるユーミーらいふ':'50周年特設ページ');}
  for(const el of document.querySelectorAll('[data-name^="c-bnr-about"]'))link(el,'https://you-me-life.co.jp/about/','3分でわかるユーミーらいふ');
  for(const el of document.querySelectorAll('[data-name^="js-kv-slider-trigger"]')){if(el.textContent.includes('SUPPORT'))link(el,'#business','SUPPORT');else button(el,el.textContent.replace(/\s|&/g,''),'hero');}
  for(const el of document.querySelectorAll('[data-name*="js-post-filter-trigger"]')){button(el,el.textContent.trim(),'filter');}
