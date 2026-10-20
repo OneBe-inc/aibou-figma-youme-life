@@ -1,0 +1,1689 @@
+<canvas id="38:948" name="YOU &amp; ME LIFE / 2026-10-21" x="0" y="0" width="0" height="0">
+  <frame id="38:949" name="Components / 元サイトの共通素材" x="2100" y="0" width="900" height="6901.54052734375">
+    <symbol id="38:999" name="Asset / -t / Background" x="0" y="0" width="373.75" height="37.375" />
+    <symbol id="38:1012" name="Asset / -b / Background" x="0" y="69.375" width="363.40625" height="181.703125" />
+    <symbol id="38:1029" name="Asset / -b::after / Background" x="0" y="283.078125" width="726.75" height="181.6875" />
+    <symbol id="38:1045" name="Asset / -l / Background" x="0" y="496.765625" width="37.375" height="373.75" />
+    <symbol id="38:1057" name="Asset / -r / Background" x="0" y="902.515625" width="37.375" height="373.75" />
+    <symbol id="38:1072" name="Asset / 02 Hero / 静止状態::after / Background" x="0" y="1308.265625" width="1789.698974609375" height="222.59381103515625" />
+    <symbol id="38:1091" name="Asset / js-svg replaced-svg" x="0" y="1562.859375" width="50.390625" height="50.390625" />
+    <symbol id="38:1101" name="Asset / js-svg replaced-svg" x="0" y="1645.25" width="161.33872985839844" height="95.847412109375" />
+    <symbol id="38:1110" name="Asset / js-svg replaced-svg" x="0" y="1773.097412109375" width="80.91033935546875" height="80.910400390625" />
+    <symbol id="38:1121" name="Asset / js-svg replaced-svg" x="0" y="1886.0078125" width="81.259033203125" height="83.293212890625" />
+    <symbol id="38:1169" name="Asset / 湘南の未来に、こんなに本気な会社、ある？" x="0" y="2001.301025390625" width="695" height="197.8392333984375" />
+    <symbol id="38:1243" name="Asset / 湘南の未来に、とことん本気。" x="0" y="2231.140380859375" width="344.353515625" height="61.90625" />
+    <symbol id="38:1342" name="Asset / CHANGE! in YOU&amp;ME LIFE" x="0" y="2325.046630859375" width="1530.2857666015625" height="143" />
+    <symbol id="38:1511" name="Asset / js-svg replaced-svg" x="0" y="2500.046630859375" width="91.7352294921875" height="91.7353515625" />
+    <symbol id="38:1522" name="Asset / js-svg replaced-svg" x="0" y="2623.781982421875" width="151.1875" height="151.1875" />
+    <symbol id="38:1555" name="Asset / js-svg replaced-svg" x="0" y="2806.969482421875" width="6.5" height="13" />
+    <symbol id="38:1560" name="Button / c-hover-text" x="420" y="2851.969482421875" width="301.6875" height="59.015625" />
+    <symbol id="38:1579" name="Asset / js-svg replaced-svg" x="0" y="2942.985107421875" width="177.47244262695312" height="140.892578125" />
+    <symbol id="38:1588" name="Asset / js-svg replaced-svg" x="0" y="3115.877685546875" width="137.489013671875" height="121.1376953125" />
+    <symbol id="38:1623" name="Asset / js-svg replaced-svg" x="0" y="3269.015380859375" width="6.5" height="13" />
+    <symbol id="38:1628" name="Button / c-hover-text" x="420" y="3314.015380859375" width="243.9375" height="59.015625" />
+    <symbol id="38:1649" name="Asset / js-svg replaced-svg" x="0" y="3405.031005859375" width="57.59375" height="57.59375" />
+    <symbol id="38:1658" name="Asset / js-svg replaced-svg" x="0" y="3494.624755859375" width="165.881103515625" height="121.619140625" />
+    <symbol id="38:1667" name="Asset / js-svg replaced-svg" x="0" y="3648.243896484375" width="157.5" height="80.078125" />
+    <symbol id="38:1710" name="Button / c-hover-text" x="420" y="3760.322021484375" width="243.9375" height="59.015625" />
+    <symbol id="38:1728" name="Asset / js-svg replaced-svg" x="0" y="3851.337646484375" width="122.390625" height="122.390625" />
+    <symbol id="38:1755" name="Asset / js-svg replaced-svg" x="0" y="4005.728271484375" width="123.7366943359375" height="109.021240234375" />
+    <symbol id="38:1768" name="Asset / js-svg replaced-svg" x="0" y="4146.74951171875" width="6.5" height="13" />
+    <symbol id="38:2089" name="Asset / js-svg replaced-svg" x="0" y="4191.74951171875" width="15.203125" height="15.203125" />
+    <symbol id="38:2127" name="Asset / js-svg replaced-svg" x="0" y="4238.95263671875" width="12.78125" height="6.390625" />
+    <symbol id="38:2168" name="Asset / js-svg replaced-svg" x="0" y="4277.34326171875" width="12.78125" height="12.78125" />
+    <symbol id="38:2181" name="Asset / js-svg replaced-svg" x="0" y="4322.12451171875" width="12.78125" height="12.78125" />
+    <symbol id="38:2229" name="Asset / -t / Background" x="0" y="4366.90576171875" width="200" height="20" />
+    <symbol id="38:2242" name="Asset / -b / Background" x="0" y="4418.90576171875" width="120" height="60" />
+    <symbol id="38:2259" name="Asset / -b::after / Background" x="0" y="4510.90576171875" width="240" height="60" />
+    <symbol id="38:2275" name="Asset / -l / Background" x="0" y="4602.90576171875" width="20" height="200" />
+    <symbol id="38:2287" name="Asset / -r / Background" x="0" y="4834.90576171875" width="20" height="200" />
+    <symbol id="38:2302" name="Asset / 02 Hero / 静止状態::after / Background" x="0" y="5066.90576171875" width="590.9547729492188" height="73.5" />
+    <symbol id="38:2351" name="Asset / 湘南の未来に、こんなに本気な会社、ある？" x="0" y="5172.40576171875" width="335" height="169.49404907226562" />
+    <symbol id="38:2418" name="Asset / 湘南の未来に、とことん本気。" x="0" y="5373.89990234375" width="267" height="48" />
+    <symbol id="38:2520" name="Asset / CHANGE! in YOU&amp;ME LIFE" x="0" y="5453.89990234375" width="818.4821166992188" height="76.484375" />
+    <symbol id="38:2614" name="Asset / js-svg replaced-svg" x="0" y="5562.38427734375" width="50.97206115722656" height="50.97216796875" />
+    <symbol id="38:2625" name="Asset / js-svg replaced-svg" x="0" y="5645.3564453125" width="84" height="84" />
+    <symbol id="38:2635" name="Asset / js-svg replaced-svg" x="0" y="5761.3564453125" width="98.5986099243164" height="78.27734375" />
+    <symbol id="38:2644" name="Asset / js-svg replaced-svg" x="0" y="5871.6337890625" width="76.3853759765625" height="67.30322265625" />
+    <symbol id="38:2683" name="Button / c-hover-text" x="420" y="5970.93701171875" width="218" height="54" />
+    <symbol id="38:2704" name="Asset / js-svg replaced-svg" x="0" y="6056.93701171875" width="32" height="32" />
+    <symbol id="38:2713" name="Asset / js-svg replaced-svg" x="0" y="6120.93701171875" width="92.158935546875" height="67.55712890625" />
+    <symbol id="38:2722" name="Asset / js-svg replaced-svg" x="0" y="6220.494140625" width="87.5" height="44.484375" />
+    <symbol id="38:2764" name="Button / c-hover-text" x="420" y="6296.978515625" width="218" height="54" />
+    <symbol id="38:2782" name="Asset / js-svg replaced-svg" x="0" y="6382.978515625" width="68.00000762939453" height="68" />
+    <symbol id="38:2803" name="Asset / js-svg replaced-svg" x="0" y="6482.978515625" width="68.74063110351562" height="60.562255859375" />
+    <symbol id="38:2883" name="Button / c-hover-text" x="420" y="6575.54052734375" width="217" height="54" />
+    <symbol id="38:2977" name="Button / c-hover-text" x="420" y="6661.54052734375" width="217" height="54" />
+    <symbol id="38:3097" name="Asset / IMG" x="0" y="6747.54052734375" width="24" height="24" />
+    <symbol id="38:3106" name="Asset / IMG" x="0" y="6803.54052734375" width="24" height="24" />
+    <symbol id="38:3127" name="Asset / js-svg replaced-svg" x="0" y="6859.54052734375" width="10" height="10" />
+  </frame>
+  <frame id="38:950" name="PC / 1440px" x="0" y="0" width="1440" height="9810">
+    <frame id="38:951" name="home wp-singular page-template-default page page-id-2 wp-theme-uniontheme is-opening is-start is-loa" x="0" y="0" width="1440" height="9809.53125">
+      <frame id="38:952" name="page" x="0" y="0" width="1440" height="9809.53125">
+        <frame id="38:953" name="l-main" x="0" y="0" width="1440" height="8644.171875">
+          <frame id="38:954" name="p-index" x="0" y="0" width="1440" height="8644.171875">
+            <frame id="38:955" name="02 Hero / 静止状態" x="0" y="0" width="1440" height="1133.328125">
+              <frame id="38:956" name="p-index_kv__inner" x="0" y="0" width="1440" height="1000">
+                <frame id="38:957" name="p-index_kv__gallery" x="0" y="0" width="1440" height="1000">
+                  <frame id="38:958" name="swiper js-kv-slider swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-ba" x="0" y="0" width="1440" height="1000">
+                    <frame id="38:959" name="swiper-wrapper" x="0" y="0" width="1440" height="1000">
+                      <frame id="38:960" name="swiper-slide swiper-slide-prev" x="0" y="0" width="1440" height="1000">
+                        <frame id="38:961" name="PICTURE" x="0" y="0" width="1440" height="1000">
+                          <rounded-rectangle id="38:962" name="IMG" x="-36" y="-25" width="1512" height="1050" />
+                        </frame>
+                      </frame>
+                      <frame id="38:963" name="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" x="0" y="0" width="1440" height="1000">
+                        <frame id="38:964" name="PICTURE" x="0" y="0" width="1440" height="1000">
+                          <rounded-rectangle id="38:965" name="IMG" x="-4.096799850463867" y="-2.8450000286102295" width="1448.193603515625" height="1005.68994140625" hidden="true" />
+                          <rounded-rectangle id="38:3153" name="AdobeStock_5800932 1" x="-62" y="0" width="1563" height="1042" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:966" name="p-index_kv__menu u-font-sen" x="1186.203125" y="500" width="136.796875" height="134.375">
+                  <frame id="38:967" name="js-kv-slider-trigger" x="0" y="0" width="136.796875" height="40">
+                    <text id="38:968" name="FUTURE" x="33.109375" y="9" width="71" height="22" />
+                    <text id="38:969" name="&amp;" x="147.25" y="2" width="13" height="36" />
+                  </frame>
+                  <frame id="38:970" name="js-kv-slider-trigger is-current" x="0" y="47.1875" width="136.796875" height="40">
+                    <text id="38:971" name="SCENERY" x="28.421875" y="9" width="80" height="22" />
+                    <text id="38:972" name="&amp;" x="147.25" y="2" width="13" height="36" />
+                  </frame>
+                  <frame id="38:973" name="js-kv-slider-trigger" x="0" y="94.375" width="136.796875" height="40">
+                    <text id="38:974" name="SUPPORT" x="27.328125" y="9" width="83" height="22" />
+                  </frame>
+                </frame>
+                <frame id="38:975" name="p-index_kv__text-area" x="90" y="339.0625" width="511.1875" height="321.875">
+                  <frame id="38:976" name="p-index_kv__copy" x="0" y="0" width="511.1875" height="321.875">
+                    <rounded-rectangle id="38:977" name="ひと、まち、くらしの未来をかえる。" x="0" y="0" width="511.1875" height="321.875" />
+                    <rounded-rectangle id="38:978" name="ひと、まち、くらしの風景をかえる。" x="0" y="0" width="511.1875" height="321.875" />
+                  </frame>
+                  <frame id="38:979" name="p-index_kv__en-wrapper" x="0" y="336.2750244140625" width="155.671875" height="51.84375">
+                    <frame id="38:980" name="p-index_kv__en u-font-sen" x="0" y="0" width="155.671875" height="51.84375">
+                      <text id="38:981" name="CHANGE! in YOU &amp; ME" x="0" y="3" width="156" height="18" />
+                      <frame id="38:982" name="EM" x="0" y="25.921875" width="155.671875" height="25.921875">
+                        <frame id="38:983" name="SPAN" x="0" y="0" width="56.71875" height="25.921875">
+                          <text id="38:984" name="FUTURE" x="0" y="3" width="57" height="18" />
+                          <frame id="38:985" name="SPAN::after" x="0" y="32.109375" width="56.71875" height="1" />
+                        </frame>
+                        <frame id="38:986" name="SPAN" x="0" y="0" width="64.265625" height="25.921875">
+                          <text id="38:987" name="SCENERY" x="0" y="3" width="65" height="18" />
+                          <frame id="38:988" name="SPAN::after" x="0" y="32.109375" width="64.25" height="1" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:989" name="p-index_kv__scroll" x="700.484375" y="916.8125" width="39.03125" height="83.1875">
+                  <frame id="38:990" name="bar" x="17.515625" y="0" width="4" height="36">
+                    <frame id="38:991" name="bar::after" x="0" y="0" width="4" height="12" />
+                  </frame>
+                  <frame id="38:992" name="text u-font-sen" x="0" y="36" width="39.03125" height="47.1875">
+                    <text id="38:993" name="scroll" x="0" y="13.859375" width="40" height="19" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:994" name="p-index_kv__frame" x="0" y="0" width="1440" height="1133.328125">
+                <frame id="38:995" name="-t" x="0" y="0" width="1440" height="37.375">
+                  <frame id="38:996" name="-t / Background" x="0" y="0" width="1440" height="37.375">
+                    <instance id="38:1000" name="Asset / -t / Background" x="533.125" y="0" width="373.75" height="37.375" />
+                  </frame>
+                </frame>
+                <frame id="38:1003" name="-b" x="0" y="951.625" width="1440" height="181.703125">
+                  <frame id="38:1004" name="-b / Background" x="0" y="0" width="1440" height="181.703125">
+                    <instance id="38:1013" name="Asset / -b / Background" x="538.296875" y="0" width="363.40625" height="181.703125" />
+                  </frame>
+                  <frame id="38:1021" name="-b::after" x="356.6015625" y="0" width="726.796875" height="181.6875">
+                    <frame id="38:1022" name="-b::after / Background" x="0" y="0" width="726.796875" height="181.6875">
+                      <instance id="38:1030" name="Asset / -b::after / Background" x="0.0234375" y="0" width="726.75" height="181.6875" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:1037" name="-l" x="0" y="0" width="37.375" height="1133.328125">
+                  <frame id="38:1038" name="-l / Background" x="0" y="0" width="37.375" height="1133.328125">
+                    <instance id="38:1046" name="Asset / -l / Background" x="0" y="379.7890625" width="37.375" height="373.75" />
+                  </frame>
+                </frame>
+                <frame id="38:1053" name="-r" x="1402.625" y="0" width="37.375" height="1133.328125">
+                  <frame id="38:1054" name="-r / Background" x="0" y="0" width="37.375" height="1133.328125">
+                    <instance id="38:1058" name="Asset / -r / Background" x="0" y="379.7890625" width="37.375" height="373.75" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:1061" name="02 Hero / 静止状態::after" x="0" y="955.2374877929688" width="1440" height="222.59381103515625">
+                <frame id="38:1062" name="02 Hero / 静止状態::after / Background" x="0" y="0" width="1440" height="222.59381103515625">
+                  <instance id="38:1073" name="Asset / 02 Hero / 静止状態::after / Background" x="-174.8494873046875" y="0" width="1789.698974609375" height="222.59381103515625" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1083" name="03 About" x="0" y="1133.328125" width="1440" height="1445.15625">
+              <frame id="38:1084" name="p-index_intro__main js-anim_elm -zigzag1 is-act" x="0" y="93.328125" width="1440" height="902.0625">
+                <frame id="38:1085" name="p-index_intro__img -i01" x="-95" y="391.78125" width="475" height="592.5">
+                  <frame id="38:1086" name="c-brush -i01 -orange zigzag1 -left" x="334.359375" y="-225.140625" width="50.390625" height="50.390625">
+                    <frame id="38:1087" name="js-svg replaced-svg" x="0" y="0" width="50.390625" height="50.390625">
+                      <instance id="38:1092" name="Asset / js-svg replaced-svg" x="0" y="0" width="50.390625" height="50.390625" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1096" name="c-brush -i02 -green zigzag1 -left -delay1" x="203.25" y="-142.1875" width="153" height="77.78125">
+                    <frame id="38:1097" name="js-svg replaced-svg" x="-4.1693572998046875" y="-9.0330810546875" width="161.33872985839844" height="95.847412109375">
+                      <instance id="38:1102" name="Asset / js-svg replaced-svg" x="0" y="0" width="161.33872985839844" height="95.847412109375" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1106" name="c-brush -i03 -pink zigzag1 -left -delay2" x="319.953125" y="177.75" width="64.796875" height="64.796875">
+                    <frame id="38:1107" name="js-svg replaced-svg" x="-8.056732177734375" y="-8.0567626953125" width="80.91033935546875" height="80.910400390625">
+                      <instance id="38:1111" name="Asset / js-svg replaced-svg" x="0" y="0" width="80.91033935546875" height="80.910400390625" />
+                    </frame>
+                  </frame>
+                  <rounded-rectangle id="38:1114" name="zigzag1 -left" x="0" y="0" width="475" height="592.5" />
+                </frame>
+                <frame id="38:1115" name="p-index_intro__img -i02" x="1070.4000244140625" y="84.028076171875" width="528" height="611.671875">
+                  <frame id="38:1116" name="c-brush -i01 -blue zigzag1 -right" x="126.71875" y="373.109375" width="72" height="44.515625">
+                    <frame id="38:1117" name="js-svg replaced-svg" x="-4.6295166015625" y="-19.388671875" width="81.259033203125" height="83.293212890625">
+                      <instance id="38:1122" name="Asset / js-svg replaced-svg" x="0" y="0" width="81.259033203125" height="83.293212890625" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1126" name="c-brush -i02 -green zigzag1 -right -delay1" x="227.03125" y="605.546875" width="50.390625" height="50.390625">
+                    <frame id="38:1127" name="js-svg replaced-svg" x="0" y="0" width="50.390625" height="50.390625">
+                      <instance id="38:1128" name="Asset / js-svg replaced-svg" x="0" y="0" width="50.390625" height="50.390625" />
+                    </frame>
+                  </frame>
+                  <rounded-rectangle id="38:1132" name="zigzag1 -right" x="0" y="0" width="528" height="611.671875" />
+                </frame>
+                <frame id="38:1133" name="p-index_intro__head js-anim_elm -base1 base1 is-act" x="372.5" y="0" width="695" height="197.828125">
+                  <frame id="38:1134" name="c-title02" x="508.9375" y="27.734375" width="186.0625" height="25.34375">
+                    <frame id="38:1135" name="sub" x="0" y="1.578125" width="42.703125" height="22.1875">
+                      <text id="38:1136" name="About" x="0" y="1" width="43" height="20" />
+                    </frame>
+                    <frame id="38:1137" name="main" x="56.5625" y="0" width="129.5" height="25.34375">
+                      <text id="38:1138" name="私たちについて" x="19.015625" y="1" width="111" height="23" />
+                      <frame id="38:1139" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1140" name="p-index_intro__copy" x="0" y="0" width="695" height="197.828125">
+                    <frame id="38:1141" name="PICTURE" x="0" y="0" width="695" height="197.828125">
+                      <frame id="38:1142" name="湘南の未来に、こんなに本気な会社、ある？" x="0" y="0" width="695" height="197.828125">
+                        <instance id="38:1170" name="Asset / 湘南の未来に、こんなに本気な会社、ある？" x="0" y="-0.005554019007831812" width="695" height="197.8392333984375" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:1197" name="p-index_intro__text" x="440.046875" y="254.203125" width="559.90625" height="647.859375">
+                  <frame id="38:1198" name="js-anim_elm -base1 base1 is-act" x="0" y="0" width="559.90625" height="177.9375">
+                    <text id="38:1199" name="豊かな自然と人のつながりが息づく湘南エリア。" x="68.171875" y="8" width="424" height="28" />
+                    <text id="38:1200" name="ユーミーらいふは、この街の人々の" x="125.21875" y="52.484375" width="310" height="28" />
+                    <text id="38:1201" name="「住む」「学ぶ」「守る」「働く」「楽しむ」といった" x="62.375" y="96.96875" width="484" height="28" />
+                    <text id="38:1202" name="“くらしの全部”に関わる、多層的な事業を展開しています。" x="19.71875" y="141.453125" width="521" height="28" />
+                  </frame>
+                  <frame id="38:1203" name="js-anim_elm -base1 base1 is-act" x="0" y="206.953125" width="559.90625" height="88.96875">
+                    <text id="38:1204" name="根底にあるのは、" x="0.15625" y="8" width="155" height="28" />
+                    <frame id="38:1205" name="labels" x="164.5625" y="5.078125" width="253.59375" height="34.859375">
+                      <frame id="38:1206" name="label" x="0" y="0" width="79.375" height="34.859375">
+                        <text id="38:1207" name="ヒト" x="20.34375" y="2.921875" width="39" height="28" />
+                      </frame>
+                      <frame id="38:1208" name="label" x="87.109375" y="0" width="79.375" height="34.859375">
+                        <text id="38:1209" name="モノ" x="20.34375" y="2.921875" width="39" height="28" />
+                      </frame>
+                      <frame id="38:1210" name="label" x="174.21875" y="0" width="79.375" height="34.859375">
+                        <text id="38:1211" name="コト" x="20.34375" y="2.921875" width="39" height="28" />
+                      </frame>
+                    </frame>
+                    <text id="38:1212" name="の3つの視点で" x="427.828125" y="8" width="128" height="28" />
+                    <text id="38:1213" name="湘南の未来を本気で変えていくという想い。" x="87.03125" y="52.484375" width="386" height="28" />
+                  </frame>
+                  <frame id="38:1214" name="js-anim_elm -base1 base1 is-act" x="0" y="324.9375" width="559.90625" height="177.9375">
+                    <text id="38:1215" name="不動産をはじめ、設計・建設・公共事業・教育・リユース事業、" x="0" y="8" width="561" height="28" />
+                    <text id="38:1216" name="高齢者の生活支援まで、" x="173.96875" y="52.484375" width="213" height="28" />
+                    <text id="38:1217" name="湘南に根ざし、湘南の魅力を活かしながら、" x="86.546875" y="96.96875" width="387" height="28" />
+                    <text id="38:1218" name="一人ひとりのくらしに寄り添い、支えていきます。" x="59.28125" y="141.453125" width="442" height="28" />
+                  </frame>
+                  <frame id="38:1219" name="js-anim_elm -base1 base1 is-act" x="0" y="531.890625" width="559.90625" height="115.96875">
+                    <frame id="38:1220" name="bubble" x="107.78125" y="0" width="344.34375" height="61.90625">
+                      <frame id="38:1221" name="湘南の未来に、とことん本気。" x="0" y="0" width="344.34375" height="61.90625">
+                        <instance id="38:1244" name="Asset / 湘南の未来に、とことん本気。" x="-0.0048828125" y="0" width="344.353515625" height="61.90625" />
+                      </frame>
+                    </frame>
+                    <text id="38:1266" name="それが、私たちユーミーらいふです。" x="116.71875" y="79.484375" width="327" height="28" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:1267" name="p-index_intro__en js-anim_elm -base1 base1 is-act" x="0" y="1208.8125" width="1440" height="143.015625">
+                <frame id="38:1268" name="swiper js-endless-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="0" width="1440" height="143.015625">
+                  <frame id="38:1269" name="swiper-wrapper" x="-517.018798828125" y="0" width="1440" height="143.015625">
+                    <frame id="38:1270" name="swiper-slide swiper-slide-next swiper-slide-prev" x="0" y="0" width="1558.875" height="143.015625">
+                      <frame id="38:1271" name="CHANGE! in YOU&amp;ME LIFE" x="28.59375" y="0.015625" width="1530.28125" height="143">
+                        <instance id="38:1343" name="Asset / CHANGE! in YOU&amp;ME LIFE" x="-0.0022321429569274187" y="0" width="1530.2857666015625" height="143" />
+                      </frame>
+                    </frame>
+                    <frame id="38:1414" name="swiper-slide clone swiper-slide-active" x="1558.875" y="0" width="1558.875" height="143.015625">
+                      <frame id="38:1415" name="CHANGE! in YOU&amp;ME LIFE" x="28.59375" y="0.015625" width="1530.28125" height="143">
+                        <instance id="38:1416" name="Asset / CHANGE! in YOU&amp;ME LIFE" x="-0.0022321429569274187" y="0" width="1530.2857666015625" height="143" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1487" name="u-bg-yellow-100" x="0" y="2578.484375" width="1440" height="253.625">
+              <frame id="38:1488" name="c-container" x="176.484375" y="0" width="1087.015625" height="253.625">
+                <frame id="38:1489" name="c-bnr-rich c-hover-img hover-img js-anim_elm -base1 base1 is-act" x="0" y="0" width="1087.015625" height="253.625">
+                  <frame id="38:1490" name="PICTURE" x="0" y="0" width="1087.015625" height="253.625">
+                    <rounded-rectangle id="38:1491" name="50th 特設ページ" x="0" y="0" width="1087.015625" height="253.625" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1492" name="05 Project" x="0" y="3926.453125" width="1440" height="916.671875">
+              <frame id="38:1493" name="p-index_project__gallery js-anim_elm -base1 base1 -zigzag1 is-act" x="0" y="111.8125" width="1440" height="396">
+                <frame id="38:1494" name="swiper js-endless-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="0" width="1440" height="194.40625">
+                  <frame id="38:1495" name="swiper-wrapper" x="-526.5109252929688" y="0" width="1440" height="194.40625">
+                    <frame id="38:1496" name="swiper-slide swiper-slide-next swiper-slide-prev" x="0" y="0" width="1587.5" height="194.40625">
+                      <rounded-rectangle id="38:1497" name="湘南活性化プロジェクトのギャラリー" x="7.1875" y="0.015625" width="1580.3125" height="194.390625" />
+                    </frame>
+                    <frame id="38:1498" name="swiper-slide clone swiper-slide-active" x="1587.5" y="0" width="1587.5" height="194.40625">
+                      <rounded-rectangle id="38:1499" name="湘南活性化プロジェクトのギャラリー" x="7.1875" y="0.015625" width="1580.3125" height="194.390625" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:1500" name="swiper js-endless-slider -reverse swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="201.59375" width="1440" height="194.40625">
+                  <frame id="38:1501" name="swiper-wrapper" x="-1061.5972900390625" y="0" width="1440" height="194.40625">
+                    <frame id="38:1502" name="swiper-slide clone swiper-slide-active" x="0" y="0" width="1588.40625" height="194.40625">
+                      <rounded-rectangle id="38:1503" name="湘南活性化プロジェクトのギャラリー" x="7.1875" y="0.015625" width="1581.21875" height="194.390625" />
+                    </frame>
+                    <frame id="38:1504" name="swiper-slide swiper-slide-next" x="1588.40625" y="0" width="1588.4063720703125" height="194.40625">
+                      <rounded-rectangle id="38:1505" name="湘南活性化プロジェクトのギャラリー" x="7.1875" y="0.015625" width="1581.2188720703125" height="194.390625" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:1506" name="c-brush -i01 zigzag1 -left" x="288" y="-39.59375" width="79.1875" height="79.1875">
+                  <frame id="38:1507" name="js-svg replaced-svg" x="-6.27386474609375" y="-6.27392578125" width="91.7352294921875" height="91.7353515625">
+                    <instance id="38:1512" name="Asset / js-svg replaced-svg" x="0" y="0" width="91.7352294921875" height="91.7353515625" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:1516" name="c-container" x="98.25" y="397.8125" width="1243.5" height="370.09375">
+                <frame id="38:1517" name="p-index_project__text-area js-anim_elm -base1 base1 -zigzag1 is-act" x="0" y="0" width="1243.5" height="370.09375">
+                  <frame id="38:1518" name="c-brush -i03 zigzag1 -delay1" x="546.15625" y="-45.3564453125" width="151.1875" height="151.1875">
+                    <frame id="38:1519" name="js-svg replaced-svg" x="0" y="0" width="151.1875" height="151.1875">
+                      <instance id="38:1523" name="Asset / js-svg replaced-svg" x="0" y="0" width="151.1875" height="151.1875" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1526" name="p-index_project__head" x="0" y="0" width="621.75" height="370.09375">
+                    <frame id="38:1527" name="c-section-title-primary" x="84.09375" y="65.609375" width="453.5625" height="164.96875">
+                      <frame id="38:1528" name="c-title02" x="0" y="0" width="453.5625" height="25.34375">
+                        <frame id="38:1529" name="sub" x="0" y="1.578125" width="49" height="22.1875">
+                          <text id="38:1530" name="Project" x="0" y="1" width="50" height="20" />
+                        </frame>
+                        <frame id="38:1531" name="main" x="62.859375" y="0" width="193.375" height="25.34375">
+                          <text id="38:1532" name="湘南活性化プロジェクト" x="19.015625" y="1" width="175" height="23" />
+                          <frame id="38:1533" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                        </frame>
+                      </frame>
+                      <frame id="38:1534" name="copy" x="0" y="36.4375" width="453.5625" height="128.53125">
+                        <text id="38:1535" name="湘南に本気！" x="0" y="2" width="242" height="59" />
+                        <text id="38:1536" name="未来をつくる" x="0" y="66.265625" width="241" height="59" />
+                        <frame id="38:1537" name="inline-block" x="240.21875" y="64.265625" width="160.6875" height="64.265625">
+                          <text id="38:1538" name="取り組み" x="0" y="2" width="161" height="59" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:1539" name="p-index_project__body" x="620.75" y="47.546875" width="622.75" height="322.546875">
+                    <frame id="38:1540" name="P" x="1" y="65.609375" width="583.84375" height="94.40625">
+                      <text id="38:1541" name="地域イベントや住民との対話、災害への備え、環境への配慮…" x="0" y="4" width="441" height="23" />
+                      <text id="38:1542" name="ユーミーらいふが湘南の地域の魅力や課題に真剣に向き合ってきた、" x="0" y="35.46875" width="487" height="23" />
+                      <frame id="38:1543" name="inline-block" x="0" y="62.9375" width="399.546875" height="31.46875">
+                        <text id="38:1544" name="「湘南活性化プロジェクト」の取り組みをご紹介します。" x="0" y="4" width="408" height="23" />
+                      </frame>
+                    </frame>
+                    <instance id="38:1561" name="c-button-primary u-mt40" x="1" y="197.921875" width="301.6875" height="59.015625" />
+                  </frame>
+                  <frame id="38:1573" name="p-index_project__char" x="993.6624755859375" y="208.1640625" width="227.125" height="215.90625">
+                    <rounded-rectangle id="38:1574" name="あんなこともこんなことも、湘南のために！" x="0" y="0" width="227.125" height="215.90625" />
+                  </frame>
+                  <frame id="38:1575" name="c-brush -i01 zigzag1 -left" x="-30.959373474121094" y="323.296875" width="154.796875" height="93.59375">
+                    <frame id="38:1576" name="js-svg replaced-svg" x="-11.337776184082031" y="-23.6494140625" width="177.47244262695312" height="140.892578125">
+                      <instance id="38:1580" name="Asset / js-svg replaced-svg" x="0" y="0" width="177.47244262695312" height="140.892578125" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1583" name="c-brush -i02 zigzag1 -right" x="1173.300048828125" y="108.4921875" width="117" height="72.328125">
+                    <frame id="38:1584" name="js-svg replaced-svg" x="-10.2445068359375" y="-24.40478515625" width="137.489013671875" height="121.1376953125">
+                      <instance id="38:1589" name="Asset / js-svg replaced-svg" x="0" y="0" width="137.489013671875" height="121.1376953125" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1593" name="08 Recruit" x="20" y="8098" width="1400" height="546.171875">
+              <frame id="38:1594" name="p-index_recruit__container" x="0" y="0" width="1400" height="546.171875">
+                <frame id="38:1595" name="p-index_recruit__bg" x="0" y="0" width="1400" height="546.171875">
+                  <rounded-rectangle id="38:1596" name="IMG" x="0" y="0" width="1400" height="546.171875" />
+                </frame>
+                <frame id="38:1597" name="p-index_recruit__row" x="111.8125" y="0" width="1231.8125" height="546.171875">
+                  <frame id="38:1598" name="p-index_recruit__text-area" x="0" y="0" width="583" height="546.171875">
+                    <frame id="38:1599" name="c-section-title-primary -white" x="0" y="74.859375" width="583" height="164.96875">
+                      <frame id="38:1600" name="c-title02" x="0" y="0" width="583" height="25.34375">
+                        <frame id="38:1601" name="sub" x="0" y="1.578125" width="49.78125" height="22.1875">
+                          <text id="38:1602" name="Recruit" x="0" y="1" width="50" height="20" />
+                        </frame>
+                        <frame id="38:1603" name="main" x="63.640625" y="0" width="82.421875" height="25.34375">
+                          <text id="38:1604" name="採用情報" x="19.015625" y="1" width="64" height="23" />
+                          <frame id="38:1605" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                        </frame>
+                      </frame>
+                      <frame id="38:1606" name="copy" x="0" y="36.4375" width="583" height="128.53125">
+                        <text id="38:1607" name="湘南のまんなかで、" x="0" y="2" width="360" height="59" />
+                        <text id="38:1608" name="くらしをつくる仕事がある。" x="0" y="66.265625" width="522" height="59" />
+                      </frame>
+                    </frame>
+                    <frame id="38:1609" name="P" x="0" y="279.984375" width="583" height="94.40625">
+                      <text id="38:1610" name="住まい、教育、福祉、まちづくりまで。" x="0" y="4" width="283" height="23" />
+                      <text id="38:1611" name="“くらしの全部”に関わるからこそ、働くことが湘南の未来につながっていきます。" x="0" y="35.46875" width="581" height="23" />
+                      <text id="38:1612" name="そんな会社、ちょっと気になりませんか？" x="0" y="66.9375" width="299" height="23" />
+                    </frame>
+                    <instance id="38:1629" name="c-button-primary -white u-mt40" x="0" y="412.296875" width="243.9375" height="59.015625" />
+                  </frame>
+                  <frame id="38:1641" name="p-index_recruit__img-area" x="657.765625" y="0" width="574.046875" height="546.171875">
+                    <frame id="38:1642" name="p-index_recruit__img" x="0" y="-60" width="574.046875" height="496.65625">
+                      <rounded-rectangle id="38:1643" name="IMG" x="0" y="0" width="574.046875" height="496.65625" />
+                    </frame>
+                    <frame id="38:1644" name="c-brush -i01 -orange zigzag1 -left" x="-86.390625" y="-11.5185546875" width="57.59375" height="57.59375">
+                      <frame id="38:1645" name="js-svg replaced-svg" x="0" y="0" width="57.59375" height="57.59375">
+                        <instance id="38:1650" name="Asset / js-svg replaced-svg" x="0" y="0" width="57.59375" height="57.59375" />
+                      </frame>
+                    </frame>
+                    <frame id="38:1654" name="c-brush -i02 zigzag1 -right -delay1" x="499.3515625" y="428.7451171875" width="149.390625" height="90.328125">
+                      <frame id="38:1655" name="js-svg replaced-svg" x="-8.2452392578125" y="-15.6455078125" width="165.881103515625" height="121.619140625">
+                        <instance id="38:1659" name="Asset / js-svg replaced-svg" x="0" y="0" width="165.881103515625" height="121.619140625" />
+                      </frame>
+                    </frame>
+                    <frame id="38:1662" name="c-brush -i03 -pink zigzag1 -right" x="369.296875" y="506.1328125" width="157.5" height="80.078125">
+                      <frame id="38:1663" name="js-svg replaced-svg" x="0" y="0" width="157.5" height="80.078125">
+                        <instance id="38:1668" name="Asset / js-svg replaced-svg" x="0" y="0" width="157.5" height="80.078125" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:1672" name="p-index_recruit__char" x="528.875" y="336.734375" width="296.5625" height="209.4375">
+                    <rounded-rectangle id="38:1673" name="湘南LOVERS集まれ〜！" x="0" y="0" width="296.5625" height="209.4375" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1674" name="p-index_business-wrapper" x="0" y="2832.109375" width="1440" height="1094.34375">
+              <frame id="38:1675" name="p-index_business-wrapper::before" x="0" y="853.1875" width="1440" height="241.140625" />
+              <frame id="38:1676" name="04 Business" x="20" y="74.765625" width="1400" height="1019.578125">
+                <frame id="38:1677" name="p-index_business__container" x="0" y="0" width="1400" height="1019.578125">
+                  <frame id="38:1678" name="c-container" x="156.484375" y="111.8125" width="1087.015625" height="795.953125">
+                    <frame id="38:1679" name="p-index_business__row" x="0" y="0" width="1087.015625" height="467.46875">
+                      <frame id="38:1680" name="p-index_business__text-area" x="0" y="19.765625" width="316.84375" height="427.921875">
+                        <frame id="38:1681" name="c-section-title-primary" x="0" y="0" width="316.84375" height="164.96875">
+                          <frame id="38:1682" name="c-title02" x="0" y="0" width="316.84375" height="25.34375">
+                            <frame id="38:1683" name="sub" x="0" y="1.578125" width="62.3125" height="22.1875">
+                              <text id="38:1684" name="Business" x="0" y="1" width="63" height="20" />
+                            </frame>
+                            <frame id="38:1685" name="main" x="76.171875" y="0" width="82.421875" height="25.34375">
+                              <text id="38:1686" name="事業紹介" x="19.015625" y="1" width="64" height="23" />
+                              <frame id="38:1687" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                            </frame>
+                          </frame>
+                          <frame id="38:1688" name="copy" x="0" y="36.4375" width="316.84375" height="128.53125">
+                            <text id="38:1689" name="ユーミーらいふ" x="0" y="2" width="282" height="59" />
+                            <text id="38:1690" name="の" x="0" y="66.265625" width="41" height="59" />
+                            <frame id="38:1691" name="inline-block" x="40.171875" y="64.265625" width="80.34375" height="64.265625">
+                              <text id="38:1692" name="事業" x="0" y="2" width="81" height="59" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:1693" name="P" x="0" y="205.125" width="316.84375" height="125.875">
+                          <text id="38:1694" name="「ヒト・モノ・コト」という3つの視点か" x="0" y="4" width="293" height="23" />
+                          <text id="38:1695" name="ら、湘南の未来に本気で投資。" x="0" y="35.46875" width="221" height="23" />
+                          <text id="38:1696" name="多角的に展開するユーミーらいふの事業全体" x="0" y="66.9375" width="315" height="23" />
+                          <text id="38:1697" name="像をご紹介します。" x="0" y="98.40625" width="141" height="23" />
+                        </frame>
+                        <instance id="38:1711" name="c-button-primary u-mt40" x="0" y="368.90625" width="243.9375" height="59.015625" />
+                      </frame>
+                      <frame id="38:1723" name="p-index_business__gallery" x="399" y="0" width="882.953125" height="467.46875">
+                        <frame id="38:1724" name="c-brush -i03 zigzag1 -delay1" x="228.1578369140625" y="-36.71728515625" width="122.390625" height="122.390625">
+                          <frame id="38:1725" name="js-svg replaced-svg" x="0" y="0" width="122.390625" height="122.390625">
+                            <instance id="38:1729" name="Asset / js-svg replaced-svg" x="0" y="0" width="122.390625" height="122.390625" />
+                          </frame>
+                        </frame>
+                        <frame id="38:1732" name="swiper js-index-business-slider u-radius-16 -i01 swiper-initialized swiper-horizontal swiper-backfac" x="0" y="0" width="288.984375" height="420.328125">
+                          <frame id="38:1733" name="swiper-wrapper" x="-578" y="0" width="288.984375" height="420.328125">
+                            <frame id="38:1734" name="swiper-slide swiper-slide-active" x="578" y="0" width="289" height="420.328125">
+                              <rounded-rectangle id="38:1735" name="事業紹介のギャラリー" x="0" y="0" width="289" height="420.328125" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:1736" name="swiper js-index-business-slider u-radius-16 -i02 swiper-initialized swiper-horizontal swiper-backfac" x="296.984375" y="47.140625" width="288.984375" height="420.328125">
+                          <frame id="38:1737" name="swiper-wrapper" x="-578" y="0" width="288.984375" height="420.328125">
+                            <frame id="38:1738" name="swiper-slide swiper-slide-active" x="578" y="0" width="289" height="420.328125">
+                              <rounded-rectangle id="38:1739" name="事業紹介のギャラリー" x="0" y="0" width="289" height="420.328125" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:1740" name="swiper js-index-business-slider u-radius-16 -i03 swiper-initialized swiper-horizontal swiper-backfac" x="593.96875" y="0" width="288.984375" height="420.328125">
+                          <frame id="38:1741" name="swiper-wrapper" x="-578" y="0" width="288.984375" height="420.328125">
+                            <frame id="38:1742" name="swiper-slide swiper-slide-active" x="578" y="0" width="289" height="420.328125">
+                              <rounded-rectangle id="38:1743" name="事業紹介のギャラリー" x="0" y="0" width="289" height="420.328125" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:1744" name="c-brush -i01 zigzag1 -left" x="-47.51251220703125" y="233.734375" width="79.1875" height="79.1875">
+                          <frame id="38:1745" name="js-svg replaced-svg" x="-6.27386474609375" y="-6.27392578125" width="91.7352294921875" height="91.7353515625">
+                            <instance id="38:1746" name="Asset / js-svg replaced-svg" x="0" y="0" width="91.7352294921875" height="91.7353515625" />
+                          </frame>
+                        </frame>
+                        <frame id="38:1750" name="c-brush -i02 zigzag1 -right" x="515.176513671875" y="376.33740234375" width="105.296875" height="65.09375">
+                          <frame id="38:1751" name="js-svg replaced-svg" x="-9.2198486328125" y="-21.963623046875" width="123.7366943359375" height="109.021240234375">
+                            <instance id="38:1756" name="Asset / js-svg replaced-svg" x="0" y="0" width="123.7366943359375" height="109.021240234375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="38:1760" name="c-bnr-rich c-hover-img hover-img u-mt80 js-anim_elm -base2 base2 is-act" x="0" y="542.328125" width="1087.015625" height="253.625">
+                      <frame id="38:1761" name="PICTURE" x="0" y="0" width="1087.015625" height="253.625">
+                        <rounded-rectangle id="38:1762" name="3分でわかる！ユーミーらいふ" x="0" y="0" width="1087.015625" height="253.625" />
+                      </frame>
+                      <frame id="38:1763" name="c-arrow" x="1011.59375" y="178.203125" width="56" height="56">
+                        <frame id="38:1764" name="c-icon" x="24.75" y="21.5" width="6.5" height="13">
+                          <frame id="38:1765" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                            <instance id="38:1769" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1772" name="06 News" x="0" y="4803.125" width="1440" height="1069.546875">
+              <frame id="38:1773" name="c-container" x="176.484375" y="111.8125" width="1087.015625" height="808.96875">
+                <frame id="38:1774" name="c-section-title-primary js-anim_elm -base1 base1 is-act" x="0" y="0" width="1087.015625" height="100.703125">
+                  <frame id="38:1775" name="c-title02" x="0" y="0" width="1087.015625" height="25.34375">
+                    <frame id="38:1776" name="sub" x="0" y="1.578125" width="38" height="22.1875">
+                      <text id="38:1777" name="News" x="0" y="1" width="39" height="20" />
+                    </frame>
+                    <frame id="38:1778" name="main" x="51.859375" y="0" width="81.625" height="25.34375">
+                      <text id="38:1779" name="ニュース" x="19.015625" y="1" width="63" height="23" />
+                      <frame id="38:1780" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                    </frame>
+                  </frame>
+                  <frame id="38:1781" name="copy" x="0" y="36.4375" width="1087.015625" height="64.265625">
+                    <text id="38:1782" name="お知らせ・イベント情報" x="0" y="2" width="442" height="59" />
+                  </frame>
+                </frame>
+                <frame id="38:1783" name="c-news-cats u-mb30 js-anim_elm -base1 base1 is-act" x="0" y="140.859375" width="1087.015625" height="97.640625">
+                  <frame id="38:1784" name="u-set-news-color -all -current" x="0" y="0" width="106.109375" height="43.3125">
+                    <text id="38:1785" name="すべて" x="38.1875" y="9.859375" width="46" height="23" />
+                    <frame id="38:1786" name="u-set-news-color -all -current::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1787" name="u-set-news-color -event" x="117.125" y="0" width="123.5625" height="43.3125">
+                    <text id="38:1788" name="イベント" x="38.1875" y="9.859375" width="63" height="23" />
+                    <frame id="38:1789" name="u-set-news-color -event::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1790" name="u-set-news-color -news" x="251.703125" y="0" width="123.25" height="43.3125">
+                    <text id="38:1791" name="お知らせ" x="38.1875" y="9.859375" width="63" height="23" />
+                    <frame id="38:1792" name="u-set-news-color -news::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1793" name="u-set-news-color -seminar" x="385.96875" y="0" width="123.5625" height="43.3125">
+                    <text id="38:1794" name="セミナー" x="38.1875" y="9.859375" width="63" height="23" />
+                    <frame id="38:1795" name="u-set-news-color -seminar::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1796" name="u-set-news-color -press" x="520.546875" y="0" width="154.5625" height="43.3125">
+                    <text id="38:1797" name="プレスルーム" x="38.1875" y="9.859375" width="94" height="23" />
+                    <frame id="38:1798" name="u-set-news-color -press::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1799" name="u-set-news-color -project" x="686.125" y="0" width="217.953125" height="43.3125">
+                    <text id="38:1800" name="プロジェクトレポート" x="38.1875" y="9.859375" width="158" height="23" />
+                    <frame id="38:1801" name="u-set-news-color -project::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1802" name="u-set-news-color -recruit" x="915.09375" y="0" width="92.109375" height="43.3125">
+                    <text id="38:1803" name="採用" x="38.1875" y="9.859375" width="32" height="23" />
+                    <frame id="38:1804" name="u-set-news-color -recruit::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                  <frame id="38:1805" name="u-set-news-color -store-info" x="0" y="54.328125" width="123.5625" height="43.3125">
+                    <text id="38:1806" name="出店情報" x="38.1875" y="9.859375" width="63" height="23" />
+                    <frame id="38:1807" name="u-set-news-color -store-info::before" x="22.453125" y="18.703125" width="5.875" height="5.875" />
+                  </frame>
+                </frame>
+                <frame id="38:1808" name="c-news-link-card-slider js-anim_elm -base1 base1 is-act" x="0" y="267.171875" width="1087.015625" height="541.796875">
+                  <frame id="38:1809" name="p-index_news__nav" x="0" y="482.78125" width="1087.015625" height="59.015625">
+                    <frame id="38:1810" name="c-slider-controller" x="0" y="0" width="783" height="59.015625">
+                      <frame id="38:1811" name="c-slider-scrollbar js-slider-scrollbar swiper-scrollbar-horizontal" x="0" y="27.5" width="583" height="4">
+                        <frame id="38:1812" name="swiper-scrollbar-drag" x="0" y="0" width="218.625" height="4" />
+                      </frame>
+                      <frame id="38:1813" name="c-slider-controller__buttons" x="615" y="13.5" width="168" height="32">
+                        <frame id="38:1814" name="c-slider-button js-slider-button -prev swiper-button-disabled" x="0" y="0" width="80" height="32">
+                          <frame id="38:1815" name="c-icon" x="36.75" y="9.5" width="6.5" height="13">
+                            <frame id="38:1816" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                              <instance id="38:1817" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:1820" name="c-slider-button js-slider-button -next" x="88" y="0" width="80" height="32">
+                          <frame id="38:1821" name="c-icon" x="36.75" y="9.5" width="6.5" height="13">
+                            <frame id="38:1822" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                              <instance id="38:1823" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                    <instance id="38:1838" name="c-button-primary -center" x="843.078125" y="0" width="243.9375" height="59.015625" />
+                  </frame>
+                  <frame id="38:1850" name="swiper js-flexible-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="-4" y="0" width="1095.015625" height="444.875">
+                    <frame id="38:1851" name="swiper-wrapper" x="0" y="0" width="1095.015625" height="444.875">
+                      <frame id="38:1852" name="swiper-slide swiper-slide-active" x="0" y="0" width="365" height="444.875">
+                        <frame id="38:1853" name="c-news-link-card u-set-news-color -%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc%e" x="4" y="0" width="357" height="444.875">
+                          <frame id="38:1854" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="357" height="444.875">
+                            <frame id="38:1855" name="c-news-link-card__head hover-img u-radius-8" x="23.125" y="23.125" width="310.75" height="232.828125">
+                              <rounded-rectangle id="38:1856" name=" wp-post-image" x="0" y="0" width="310.75" height="232.828125" />
+                            </frame>
+                            <frame id="38:1857" name="c-news-link-card__body" x="23.125" y="275.953125" width="310.75" height="138.40625">
+                              <frame id="38:1858" name="c-news-link-card__meta" x="0" y="0" width="310.75" height="23.59375">
+                                <frame id="38:1859" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="77.734375" height="23.59375">
+                                  <text id="38:1860" name="2026.10.20" x="0" y="2" width="78" height="19" />
+                                </frame>
+                                <frame id="38:1861" name="c-news-link-card__cats" x="93.46875" y="1.375" width="125.015625" height="20.828125">
+                                  <frame id="38:1862" name="cat u-color-news" x="0" y="0" width="125.015625" height="20.828125">
+                                    <text id="38:1863" name="イベントレポート" x="13.890625" y="0" width="112" height="20" />
+                                    <frame id="38:1864" name="cat u-color-news::before" x="0" y="7.796875" width="5.1875" height="5.1875" />
+                                  </frame>
+                                </frame>
+                              </frame>
+                              <frame id="38:1865" name="c-news-link-card__title" x="0" y="31.453125" width="310.75" height="106.953125">
+                                <frame id="38:1866" name="hover-text" x="0" y="2" width="310.109375" height="100.90625">
+                                  <text id="38:1867" name="【イベントレポート】ものづくり" x="0" y="0" width="292" height="29" />
+                                  <text id="38:1868" name="で、人とまちをつなぐ。茅ヶ崎高砂" x="0" y="34.984375" width="311" height="29" />
+                                  <text id="38:1869" name="でハロウィンイベントを開催" x="0" y="69.96875" width="253" height="29" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="38:1870" name="swiper-slide swiper-slide-next" x="365" y="0" width="365" height="444.796875">
+                        <frame id="38:1871" name="c-news-link-card u-set-news-color -%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc%e" x="4" y="0" width="357" height="444.796875">
+                          <frame id="38:1872" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="357" height="444.796875">
+                            <frame id="38:1873" name="c-news-link-card__head hover-img u-radius-8" x="23.125" y="23.125" width="310.75" height="232.828125">
+                              <rounded-rectangle id="38:1874" name=" wp-post-image" x="0" y="0" width="310.75" height="232.828125" />
+                            </frame>
+                            <frame id="38:1875" name="c-news-link-card__body" x="23.125" y="275.953125" width="310.75" height="138.328125">
+                              <frame id="38:1876" name="c-news-link-card__meta" x="0" y="0" width="310.75" height="23.59375">
+                                <frame id="38:1877" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="77.734375" height="23.59375">
+                                  <text id="38:1878" name="2026.10.03" x="0" y="2" width="78" height="19" />
+                                </frame>
+                                <frame id="38:1879" name="c-news-link-card__cats" x="93.46875" y="1.375" width="125.015625" height="20.828125">
+                                  <frame id="38:1880" name="cat u-color-news" x="0" y="0" width="125.015625" height="20.828125">
+                                    <text id="38:1881" name="イベントレポート" x="13.890625" y="0" width="112" height="20" />
+                                    <frame id="38:1882" name="cat u-color-news::before" x="0" y="7.796875" width="5.1875" height="5.1875" />
+                                  </frame>
+                                </frame>
+                              </frame>
+                              <frame id="38:1883" name="c-news-link-card__title" x="0" y="31.453125" width="310.75" height="106.875">
+                                <frame id="38:1884" name="hover-text" x="0" y="2" width="301.171875" height="65.921875">
+                                  <text id="38:1885" name="【新卒研修】マナー研修を実施｜半" x="0" y="0" width="311" height="29" />
+                                  <text id="38:1886" name="年後の「先輩」を見据えて" x="0" y="34.984375" width="233" height="29" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="38:1887" name="swiper-slide" x="730" y="0" width="365" height="444.796875">
+                        <frame id="38:1888" name="c-news-link-card u-set-news-color -news" x="4" y="0" width="357" height="444.796875">
+                          <frame id="38:1889" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="357" height="444.796875">
+                            <frame id="38:1890" name="c-news-link-card__head hover-img u-radius-8" x="23.125" y="23.125" width="310.75" height="232.828125">
+                              <rounded-rectangle id="38:1891" name=" wp-post-image" x="0" y="0" width="310.75" height="232.828125" />
+                            </frame>
+                            <frame id="38:1892" name="c-news-link-card__body" x="23.125" y="275.953125" width="310.75" height="138.328125">
+                              <frame id="38:1893" name="c-news-link-card__meta" x="0" y="0" width="310.75" height="23.59375">
+                                <frame id="38:1894" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="77.734375" height="23.59375">
+                                  <text id="38:1895" name="2026.10.01" x="0" y="2" width="78" height="19" />
+                                </frame>
+                                <frame id="38:1896" name="c-news-link-card__cats" x="93.46875" y="1.375" width="69.1875" height="20.828125">
+                                  <frame id="38:1897" name="cat u-color-news" x="0" y="0" width="69.1875" height="20.828125">
+                                    <text id="38:1898" name="お知らせ" x="13.890625" y="0" width="56" height="20" />
+                                    <frame id="38:1899" name="cat u-color-news::before" x="0" y="7.796875" width="5.1875" height="5.1875" />
+                                  </frame>
+                                </frame>
+                              </frame>
+                              <frame id="38:1900" name="c-news-link-card__title" x="0" y="31.453125" width="310.75" height="106.875">
+                                <frame id="38:1901" name="hover-text" x="0" y="2" width="310.5" height="65.921875">
+                                  <text id="38:1902" name="採用活動におけるハラスメント防止" x="0" y="0" width="311" height="29" />
+                                  <text id="38:1903" name="基本方針" x="0" y="34.984375" width="78" height="29" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="38:1904" name="swiper-slide" x="1095" y="0" width="365" height="444.875">
+                        <frame id="38:1905" name="c-news-link-card u-set-news-color -%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc%e" x="4" y="0" width="357" height="444.875">
+                          <frame id="38:1906" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="357" height="444.875">
+                            <frame id="38:1907" name="c-news-link-card__head hover-img u-radius-8" x="23.125" y="23.125" width="310.75" height="232.828125">
+                              <rounded-rectangle id="38:1908" name=" wp-post-image" x="0" y="0" width="310.75" height="232.828125" />
+                            </frame>
+                            <frame id="38:1909" name="c-news-link-card__body" x="23.125" y="275.953125" width="310.75" height="138.40625">
+                              <frame id="38:1910" name="c-news-link-card__meta" x="0" y="0" width="310.75" height="23.59375">
+                                <frame id="38:1911" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="77.734375" height="23.59375">
+                                  <text id="38:1912" name="2026.09.19" x="0" y="2" width="78" height="19" />
+                                </frame>
+                                <frame id="38:1913" name="c-news-link-card__cats" x="93.46875" y="1.375" width="125.015625" height="20.828125">
+                                  <frame id="38:1914" name="cat u-color-news" x="0" y="0" width="125.015625" height="20.828125">
+                                    <text id="38:1915" name="イベントレポート" x="13.890625" y="0" width="112" height="20" />
+                                    <frame id="38:1916" name="cat u-color-news::before" x="0" y="7.796875" width="5.1875" height="5.1875" />
+                                  </frame>
+                                </frame>
+                              </frame>
+                              <frame id="38:1917" name="c-news-link-card__title" x="0" y="31.453125" width="310.75" height="106.953125">
+                                <frame id="38:1918" name="hover-text" x="0" y="2" width="295.171875" height="135.890625">
+                                  <text id="38:1919" name="【産学連携・東海大学#02】" x="0" y="0" width="249" height="29" />
+                                  <text id="38:1920" name="「Spinach!!」フィールドワーク｜" x="0" y="34.984375" width="305" height="29" />
+                                  <text id="38:1921" name="学生目線で「暮らし」を伝える" x="0" y="69.96875" width="272" height="29" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:1922" name="07 Company" x="0" y="5832.671875" width="1440" height="2061.140625">
+              <frame id="38:1923" name="p-index_company__bg" x="0" y="0" width="1440" height="2061.140625" />
+              <frame id="38:1924" name="07 Company::before" x="0" y="1967.796875" width="1440" height="93.3125" />
+              <frame id="38:1925" name="c-container" x="176.484375" y="111.8125" width="1087.015625" height="1949.328125">
+                <frame id="38:1926" name="js-index-company-sticky" x="0" y="0" width="1087.015625" height="1949.328125">
+                  <frame id="38:1927" name="p-index_company-sticky__head" x="0" y="0" width="1087.015625" height="1949.328125">
+                    <frame id="38:1928" name="p-index_company-sticky__head__inner js-index-company-title" x="0" y="0" width="1087.015625" height="225.21875">
+                      <frame id="38:1929" name="c-section-title-primary js-anim_elm -base1 base1 is-act" x="0" y="0" width="1087.015625" height="225.21875">
+                        <frame id="38:1930" name="c-title02" x="0" y="0" width="1087.015625" height="25.34375">
+                          <frame id="38:1931" name="sub" x="0" y="1.578125" width="70.359375" height="22.1875">
+                            <text id="38:1932" name="Company" x="0" y="1" width="71" height="20" />
+                          </frame>
+                          <frame id="38:1933" name="main" x="84.21875" y="0" width="82.421875" height="25.34375">
+                            <text id="38:1934" name="会社案内" x="19.015625" y="1" width="64" height="23" />
+                            <frame id="38:1935" name="main::before" x="0" y="9.5" width="5.9375" height="5.9375" />
+                          </frame>
+                        </frame>
+                        <frame id="38:1936" name="copy" x="0" y="36.4375" width="1087.015625" height="128.53125">
+                          <text id="38:1937" name="湘南で生まれ、" x="0" y="2" width="282" height="59" />
+                          <text id="38:1938" name="育ち、進化しつづける会社" x="0" y="66.265625" width="480" height="59" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:1939" name="p-index_company-sticky__item -i01" x="0" y="225.21875" width="1087.015625" height="1724.109375">
+                    <frame id="38:1940" name="p-index_company-sticky__item__inner" x="0" y="0" width="1087.015625" height="479.9375">
+                      <frame id="38:1941" name="p-index_company-panel -company -i01" x="0" y="0" width="1087.015625" height="479.9375">
+                        <frame id="38:1942" name="p-index_company-panel__index u-font-sen" x="0" y="0" width="115.859375" height="43.203125">
+                          <frame id="38:1943" name="text" x="47.375" y="1.953125" width="21.109375" height="39.28125">
+                            <text id="38:1944" name="01" x="0" y="8" width="22" height="23" />
+                          </frame>
+                          <frame id="38:1945" name="p-index_company-panel__index u-font-sen::after" x="114.859375" y="27.46875" width="15.734375" height="15.734375" />
+                        </frame>
+                        <frame id="38:1946" name="p-index_company-panel__body" x="0" y="42.203125" width="1087.015625" height="437.734375">
+                          <frame id="38:1947" name="p-index_company-panel__bg" x="0" y="0" width="1087.015625" height="437.734375">
+                            <rounded-rectangle id="38:1948" name="IMG" x="0" y="0" width="1087.015625" height="437.734375" />
+                          </frame>
+                          <frame id="38:1949" name="p-index_company-panel__text-area" x="23.125" y="75.515625" width="523.59375" height="286.6875">
+                            <frame id="38:1950" name="p-index_company-panel__title" x="47.140625" y="0" width="476.453125" height="98.390625">
+                              <frame id="38:1951" name="sub" x="0" y="0" width="476.453125" height="36.890625">
+                                <text id="38:1952" name="ユーミーらいふを" x="0" y="1" width="185" height="34" />
+                              </frame>
+                              <text id="38:1953" name="知る" x="0" y="38.890625" width="77" height="56" />
+                            </frame>
+                            <frame id="38:1954" name="P" x="47.140625" y="117.59375" width="476.453125" height="62.9375">
+                              <text id="38:1955" name="企業理念や事業内容を簡潔にご紹介。" x="0" y="4" width="268" height="23" />
+                              <text id="38:1956" name="思っている以上に、暮らしの広い領域で活躍しています。" x="0" y="35.46875" width="406" height="23" />
+                            </frame>
+                            <instance id="38:1969" name="c-button-primary -white u-mt50" x="47.140625" y="227.671875" width="243.9375" height="59.015625" />
+                          </frame>
+                          <frame id="38:1981" name="p-index_company-panel__img" x="585.40625" y="23.125" width="478.484375" height="391.484375">
+                            <rounded-rectangle id="38:1982" name="u-radius-16" x="0" y="0" width="478.484375" height="391.484375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:1983" name="p-index_company-sticky__item -i02" x="0" y="874.6875" width="1087.015625" height="1074.640625">
+                    <frame id="38:1984" name="p-index_company-sticky__item__inner" x="0" y="0" width="1087.015625" height="489.9375">
+                      <frame id="38:1985" name="p-index_company-panel -history -i02" x="0" y="10" width="1087.015625" height="479.9375">
+                        <frame id="38:1986" name="p-index_company-panel__index u-font-sen" x="125.859375" y="0" width="115.859375" height="43.203125">
+                          <frame id="38:1987" name="text" x="47.375" y="1.953125" width="21.109375" height="39.28125">
+                            <text id="38:1988" name="02" x="0" y="8" width="22" height="23" />
+                          </frame>
+                          <frame id="38:1989" name="p-index_company-panel__index u-font-sen::before" x="-14.734375" y="27.46875" width="15.734375" height="15.734375" />
+                          <frame id="38:1990" name="p-index_company-panel__index u-font-sen::after" x="114.859375" y="27.46875" width="15.734375" height="15.734375" />
+                        </frame>
+                        <frame id="38:1991" name="p-index_company-panel__body" x="0" y="42.203125" width="1087.015625" height="437.734375">
+                          <frame id="38:1992" name="p-index_company-panel__bg" x="0" y="0" width="1087.015625" height="437.734375">
+                            <rounded-rectangle id="38:1993" name="IMG" x="0" y="0" width="1087.015625" height="437.734375" />
+                          </frame>
+                          <frame id="38:1994" name="p-index_company-panel__text-area" x="23.125" y="75.515625" width="523.59375" height="286.6875">
+                            <frame id="38:1995" name="p-index_company-panel__title" x="47.140625" y="0" width="476.453125" height="98.390625">
+                              <frame id="38:1996" name="sub" x="0" y="0" width="476.453125" height="36.890625">
+                                <text id="38:1997" name="ユーミーらいふの" x="0" y="1" width="185" height="34" />
+                              </frame>
+                              <text id="38:1998" name="歩み" x="0" y="38.890625" width="77" height="56" />
+                            </frame>
+                            <frame id="38:1999" name="P" x="47.140625" y="117.59375" width="476.453125" height="62.9375">
+                              <text id="38:2000" name="湘南で積み上げてきた歴史と歩みをまとめました。" x="0" y="4" width="362" height="23" />
+                              <text id="38:2001" name="“20社以上の分社化”の背景も、ここにあります。" x="0" y="35.46875" width="347" height="23" />
+                            </frame>
+                            <instance id="38:2014" name="c-button-primary -white u-mt50" x="47.140625" y="227.671875" width="243.9375" height="59.015625" />
+                          </frame>
+                          <frame id="38:2026" name="p-index_company-panel__img" x="585.40625" y="23.125" width="478.484375" height="391.484375">
+                            <rounded-rectangle id="38:2027" name="u-radius-16" x="0" y="0" width="478.484375" height="391.484375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2028" name="p-index_company-sticky__item -i03" x="0" y="1449.390625" width="1087.015625" height="499.9375">
+                    <frame id="38:2029" name="p-index_company-sticky__item__inner" x="0" y="0" width="1087.015625" height="499.9375">
+                      <frame id="38:2030" name="p-index_company-panel -vision -i03" x="0" y="20" width="1087.015625" height="479.9375">
+                        <frame id="38:2031" name="p-index_company-panel__index u-font-sen" x="251.71875" y="0" width="115.859375" height="43.203125">
+                          <frame id="38:2032" name="text" x="47.375" y="1.953125" width="21.109375" height="39.28125">
+                            <text id="38:2033" name="03" x="0" y="8" width="22" height="23" />
+                          </frame>
+                          <frame id="38:2034" name="p-index_company-panel__index u-font-sen::before" x="-14.734375" y="27.46875" width="15.734375" height="15.734375" />
+                          <frame id="38:2035" name="p-index_company-panel__index u-font-sen::after" x="114.859375" y="27.46875" width="15.734375" height="15.734375" />
+                        </frame>
+                        <frame id="38:2036" name="p-index_company-panel__body" x="0" y="42.203125" width="1087.015625" height="437.734375">
+                          <frame id="38:2037" name="p-index_company-panel__bg" x="0" y="0" width="1087.015625" height="437.734375">
+                            <rounded-rectangle id="38:2038" name="IMG" x="0" y="0" width="1087.015625" height="437.734375" />
+                          </frame>
+                          <frame id="38:2039" name="p-index_company-panel__text-area" x="23.125" y="75.515625" width="523.59375" height="286.6875">
+                            <frame id="38:2040" name="p-index_company-panel__title" x="47.140625" y="0" width="476.453125" height="98.390625">
+                              <frame id="38:2041" name="sub" x="0" y="0" width="476.453125" height="36.890625">
+                                <text id="38:2042" name="ユーミーらいふの" x="0" y="1" width="185" height="34" />
+                              </frame>
+                              <text id="38:2043" name="これから" x="0" y="38.890625" width="154" height="56" />
+                            </frame>
+                            <frame id="38:2044" name="P" x="47.140625" y="117.59375" width="476.453125" height="62.9375">
+                              <text id="38:2045" name="SDGsや地域共創など、これからの挑戦をご紹介。" x="0" y="4" width="354" height="23" />
+                              <text id="38:2046" name="未来に向けて、変わり続ける企業です。" x="0" y="35.46875" width="281" height="23" />
+                            </frame>
+                            <instance id="38:2059" name="c-button-primary -white u-mt50" x="47.140625" y="227.671875" width="243.9375" height="59.015625" />
+                          </frame>
+                          <frame id="38:2071" name="p-index_company-panel__img" x="585.40625" y="23.125" width="478.484375" height="391.484375">
+                            <rounded-rectangle id="38:2072" name="u-radius-16" x="0" y="0" width="478.484375" height="391.484375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="38:2073" name="09 Footer" x="20" y="8876.078125" width="1400" height="933.453125">
+          <frame id="38:2074" name="l-footer__container" x="0" y="0" width="1400" height="913.453125">
+            <frame id="38:2075" name="c-container" x="156.484375" y="0" width="1087.015625" height="875.546875">
+              <frame id="38:2076" name="l-footer__logo" x="462.984375" y="0" width="161.03125" height="140.203125">
+                <frame id="38:2077" name="l-footer__logo::before" x="-47.546875" y="-57.953125" width="256.09375" height="256.09375" />
+                <frame id="38:2078" name="A" x="0" y="112.734375" width="161.03125" height="23">
+                  <rounded-rectangle id="38:2079" name="ユーミーらいふ" x="0" y="-112.734375" width="161.03125" height="140.203125" />
+                </frame>
+              </frame>
+              <frame id="38:2080" name="l-footer__copyright" x="0" y="832.875" width="1087.015625" height="42.671875">
+                <text id="38:2081" name="© 2026 株式会社ユーミーホールディングス" x="408.078125" y="17.890625" width="271" height="20" />
+              </frame>
+              <frame id="38:2082" name="js-footer-cta" x="0" y="196.578125" width="1087.015625" height="191.6875">
+                <frame id="38:2083" name="c-hover-text" x="0" y="0" width="1087.015625" height="191.6875">
+                  <frame id="38:2084" name="l-footer-cta-link__title" x="73.609375" y="65.40625" width="258.65625" height="60.859375">
+                    <frame id="38:2085" name="icon c-icon" x="0" y="0" width="60.859375" height="60.859375">
+                      <frame id="38:2086" name="js-svg replaced-svg" x="22.828125" y="22.828125" width="15.203125" height="15.203125">
+                        <instance id="38:2090" name="Asset / js-svg replaced-svg" x="0" y="0" width="15.203125" height="15.203125" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2093" name="title" x="76.0625" y="6.078125" width="182.59375" height="48.6875">
+                      <frame id="38:2094" name="hover-text" x="0" y="2" width="182.59375" height="47.03125">
+                        <text id="38:2095" name="お問い合わせ" x="0" y="0" width="183" height="44" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2096" name="P" x="388.640625" y="64.375" width="512.390625" height="62.9375">
+                    <text id="38:2097" name="ユーミーらいふグループへのご要望やご質問は" x="0" y="4" width="330" height="23" />
+                    <text id="38:2098" name="こちらからお問い合わせください。" x="0" y="35.46875" width="252" height="23" />
+                  </frame>
+                  <frame id="38:2099" name="c-arrow" x="957.40625" y="67.84375" width="56" height="56">
+                    <frame id="38:2100" name="c-icon" x="24.75" y="21.5" width="6.5" height="13">
+                      <frame id="38:2101" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                        <instance id="38:2102" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2105" name="l-footer-cta-link__hand" x="919.76953125" y="79.546875" width="135.515625" height="112.140625">
+                    <frame id="38:2106" name="emp" x="-18.320068359375" y="-37.4287109375" width="54.583740234375" height="49.6826171875" />
+                    <frame id="38:2107" name="hand" x="0" y="0" width="135.515625" height="112.140625" />
+                    <frame id="38:2108" name="hand" x="0" y="0" width="135.515625" height="112.140625" />
+                    <frame id="38:2109" name="hand" x="0" y="0" width="135.515625" height="112.140625" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="38:2110" name="js-header" x="0" y="0" width="1440" height="180.125">
+          <frame id="38:2111" name="l-header__logo" x="0" y="0" width="198.359375" height="180.125">
+            <frame id="38:2112" name="A" x="28.6875" y="28.6875" width="140.984375" height="122.75">
+              <rounded-rectangle id="38:2113" name="ユーミーらいふ" x="0" y="0" width="140.984375" height="122.75" />
+            </frame>
+          </frame>
+          <frame id="38:2114" name="l-header__inner" x="198.359375" y="0" width="1241.640625" height="126.578125">
+            <frame id="38:2115" name="l-header__main" x="282.421875" y="28.6875" width="861.328125" height="69.203125">
+              <frame id="38:2116" name="l-header__menu" x="21.640625" y="10" width="515.859375" height="49.203125">
+                <frame id="38:2117" name="l-header__menu-item" x="0" y="0" width="108.640625" height="49.203125">
+                  <frame id="38:2118" name="page c-hover-flip js-mega-trigger" x="0" y="0" width="108.640625" height="49.203125">
+                    <frame id="38:2119" name="text" x="15.734375" y="8.859375" width="62.921875" height="31.46875">
+                      <frame id="38:2120" name="hover-flip" x="0" y="0" width="62.921875" height="31.46875">
+                        <frame id="38:2121" name="in" x="0" y="0" width="62.921875" height="31.46875">
+                          <text id="38:2122" name="事業紹介" x="0" y="4" width="63" height="23" />
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="38:2123" name="toggle c-icon" x="83.3203125" y="21.3984375" width="12.78125" height="6.390625">
+                      <frame id="38:2124" name="js-svg replaced-svg" x="0" y="0" width="12.78125" height="6.390625">
+                        <instance id="38:2128" name="Asset / js-svg replaced-svg" x="0" y="0" width="12.78125" height="6.390625" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2131" name="page c-hover-flip js-mega-trigger::before" x="-31.46875" y="0" width="171.5625" height="126.5625" />
+                    <frame id="38:2132" name="page c-hover-flip js-mega-trigger::after" x="30.71875" y="-10" width="47.1875" height="5.875" />
+                  </frame>
+                </frame>
+                <frame id="38:2133" name="l-header__menu-item" x="108.640625" y="0" width="108.640625" height="49.203125">
+                  <frame id="38:2134" name="page c-hover-flip js-mega-trigger" x="0" y="0" width="108.640625" height="49.203125">
+                    <frame id="38:2135" name="text" x="15.734375" y="8.859375" width="62.921875" height="31.46875">
+                      <frame id="38:2136" name="hover-flip" x="0" y="0" width="62.921875" height="31.46875">
+                        <frame id="38:2137" name="in" x="0" y="0" width="62.921875" height="31.46875">
+                          <text id="38:2138" name="会社案内" x="0" y="4" width="63" height="23" />
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="38:2139" name="toggle c-icon" x="83.3203125" y="21.3984375" width="12.78125" height="6.390625">
+                      <frame id="38:2140" name="js-svg replaced-svg" x="0" y="0" width="12.78125" height="6.390625">
+                        <instance id="38:2141" name="Asset / js-svg replaced-svg" x="0" y="0" width="12.78125" height="6.390625" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2144" name="page c-hover-flip js-mega-trigger::before" x="-31.46875" y="0" width="171.5625" height="126.5625" />
+                    <frame id="38:2145" name="page c-hover-flip js-mega-trigger::after" x="30.71875" y="-10" width="47.1875" height="5.875" />
+                  </frame>
+                </frame>
+                <frame id="38:2146" name="l-header__menu-item" x="217.28125" y="0" width="94.078125" height="49.203125">
+                  <frame id="38:2147" name="page c-hover-flip" x="0" y="0" width="94.078125" height="49.203125">
+                    <frame id="38:2148" name="text" x="15.734375" y="8.859375" width="62.609375" height="31.46875">
+                      <frame id="38:2149" name="hover-flip" x="0" y="0" width="62.609375" height="31.46875">
+                        <frame id="38:2150" name="in" x="0" y="0" width="62.609375" height="31.46875">
+                          <text id="38:2151" name="お知らせ" x="0" y="4" width="63" height="23" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2152" name="l-header__menu-item" x="311.359375" y="0" width="204.5" height="49.203125">
+                  <frame id="38:2153" name="page c-hover-flip" x="0" y="0" width="204.5" height="49.203125">
+                    <frame id="38:2154" name="text" x="15.734375" y="8.859375" width="173.03125" height="31.46875">
+                      <frame id="38:2155" name="hover-flip" x="0" y="0" width="173.03125" height="31.46875">
+                        <frame id="38:2156" name="in" x="0" y="0" width="173.03125" height="31.46875">
+                          <text id="38:2157" name="湘南活性化プロジェクト" x="0" y="4" width="174" height="23" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:2158" name="l-header__buttons" x="544.890625" y="10" width="306.4375" height="49.203125">
+                <frame id="38:2159" name="l-header-button -recruit" x="0" y="0" width="153.21875" height="49.203125">
+                  <frame id="38:2160" name="c-hover-text" x="0" y="0" width="153.21875" height="49.203125">
+                    <frame id="38:2161" name="text" x="32.46875" y="12.796875" width="78.65625" height="23.59375">
+                      <frame id="38:2162" name="hover-text" x="0" y="0" width="62.921875" height="24.5625">
+                        <text id="38:2163" name="採用情報" x="0" y="0" width="63" height="23" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2164" name="icon c-icon" x="123.703125" y="18.203125" width="12.78125" height="12.78125">
+                      <frame id="38:2165" name="js-svg replaced-svg" x="0" y="0" width="12.78125" height="12.78125">
+                        <instance id="38:2169" name="Asset / js-svg replaced-svg" x="0" y="0" width="12.78125" height="12.78125" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2172" name="l-header-button -contact" x="153.21875" y="0" width="153.21875" height="49.203125">
+                  <frame id="38:2173" name="c-hover-text" x="0" y="0" width="153.21875" height="49.203125">
+                    <frame id="38:2174" name="text" x="16.734375" y="12.796875" width="94.390625" height="23.59375">
+                      <frame id="38:2175" name="hover-text" x="0" y="0" width="94.390625" height="24.5625">
+                        <text id="38:2176" name="お問い合わせ" x="0" y="0" width="95" height="23" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2177" name="icon c-icon" x="123.703125" y="18.203125" width="12.78125" height="12.78125">
+                      <frame id="38:2178" name="js-svg replaced-svg" x="0" y="0" width="12.78125" height="12.78125">
+                        <instance id="38:2182" name="Asset / js-svg replaced-svg" x="0" y="0" width="12.78125" height="12.78125" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2185" name="l-header-hamburger js-drawer-button" x="1143.75" y="28.6875" width="69.203125" height="69.203125">
+              <frame id="38:2186" name="bar" x="20.359375" y="28.5" width="28.484375" height="12.203125">
+                <frame id="38:2187" name="bar::before" x="0" y="0" width="28.484375" height="2" />
+                <frame id="38:2188" name="bar::after" x="0" y="10.1875" width="28.484375" height="2" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="38:2189" name="SP / 375px" x="1600" y="0" width="375" height="9763">
+    <frame id="38:2190" name="home wp-singular page-template-default page page-id-2 wp-theme-uniontheme is-opening is-start is-loa" x="0" y="0" width="375" height="9762.734375">
+      <frame id="38:2191" name="page" x="0" y="0" width="375" height="9762.734375">
+        <frame id="38:2192" name="l-main" x="0" y="0" width="375" height="8477.03125">
+          <frame id="38:2193" name="p-index" x="0" y="0" width="375" height="8477.03125">
+            <frame id="38:2194" name="02 Hero / 静止状態" x="0" y="0" width="375" height="812">
+              <frame id="38:2195" name="p-index_kv__inner" x="0" y="0" width="375" height="812">
+                <frame id="38:2196" name="p-index_kv__gallery" x="0" y="0" width="375" height="812">
+                  <frame id="38:2197" name="swiper js-kv-slider swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-ba" x="0" y="0" width="375" height="812">
+                    <frame id="38:2198" name="swiper-wrapper" x="0" y="0" width="375" height="812">
+                      <frame id="38:2199" name="swiper-slide swiper-slide-prev" x="0" y="0" width="375" height="812">
+                        <frame id="38:2200" name="PICTURE" x="0" y="0" width="375" height="812">
+                          <rounded-rectangle id="38:2201" name="IMG" x="-9.375" y="-20.299999237060547" width="393.75" height="852.5999755859375" />
+                        </frame>
+                      </frame>
+                      <frame id="38:2202" name="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" x="0" y="0" width="375" height="812">
+                        <frame id="38:2203" name="PICTURE" x="0" y="0" width="375" height="812">
+                          <rounded-rectangle id="38:2204" name="IMG" x="-0.9900000095367432" y="-2.1436800956726074" width="376.97998046875" height="816.287353515625" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2205" name="p-index_kv__text-area" x="10" y="433.86248779296875" width="295" height="185.75">
+                  <frame id="38:2206" name="p-index_kv__copy" x="0" y="0" width="295" height="185.75">
+                    <rounded-rectangle id="38:2207" name="ひと、まち、くらしの未来をかえる。" x="0" y="0" width="295" height="185.75" />
+                    <rounded-rectangle id="38:2208" name="ひと、まち、くらしの風景をかえる。" x="0" y="0" width="295" height="185.75" />
+                  </frame>
+                  <frame id="38:2209" name="p-index_kv__en-wrapper" x="216.89065551757812" y="195.75" width="108.109375" height="36">
+                    <frame id="38:2210" name="p-index_kv__en u-font-sen" x="0" y="0" width="108.109375" height="36">
+                      <text id="38:2211" name="CHANGE! in YOU &amp; ME" x="0" y="3" width="109" height="12" />
+                      <frame id="38:2212" name="EM" x="0" y="18" width="108.109375" height="18">
+                        <frame id="38:2213" name="SPAN" x="0" y="0" width="39.390625" height="18">
+                          <text id="38:2214" name="FUTURE" x="0" y="3" width="40" height="12" />
+                          <frame id="38:2215" name="SPAN::after" x="0" y="22" width="39.375" height="1" />
+                        </frame>
+                        <frame id="38:2216" name="SPAN" x="0" y="0" width="44.640625" height="18">
+                          <text id="38:2217" name="SCENERY" x="0" y="3" width="45" height="12" />
+                          <frame id="38:2218" name="SPAN::after" x="0" y="22" width="44.625" height="1" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2219" name="p-index_kv__scroll" x="170.125" y="727" width="34.734375" height="78">
+                  <frame id="38:2220" name="bar" x="15.359375" y="0" width="4" height="36">
+                    <frame id="38:2221" name="bar::after" x="0" y="0" width="4" height="12" />
+                  </frame>
+                  <frame id="38:2222" name="text u-font-sen" x="0" y="36" width="34.734375" height="42">
+                    <text id="38:2223" name="scroll" x="0" y="12" width="35" height="17" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:2224" name="p-index_kv__frame" x="0" y="0" width="375" height="812">
+                <frame id="38:2225" name="-t" x="0" y="0" width="375" height="20">
+                  <frame id="38:2226" name="-t / Background" x="0" y="0" width="375" height="20">
+                    <instance id="38:2230" name="Asset / -t / Background" x="87.5" y="0" width="200" height="20" />
+                  </frame>
+                </frame>
+                <frame id="38:2233" name="-b" x="0" y="752" width="375" height="60">
+                  <frame id="38:2234" name="-b / Background" x="0" y="0" width="375" height="60">
+                    <instance id="38:2243" name="Asset / -b / Background" x="127.5" y="0" width="120" height="60" />
+                  </frame>
+                  <frame id="38:2251" name="-b::after" x="67.5" y="0" width="240" height="60">
+                    <frame id="38:2252" name="-b::after / Background" x="0" y="0" width="240" height="60">
+                      <instance id="38:2260" name="Asset / -b::after / Background" x="0" y="0" width="240" height="60" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2267" name="-l" x="0" y="0" width="20" height="812">
+                  <frame id="38:2268" name="-l / Background" x="0" y="0" width="20" height="812">
+                    <instance id="38:2276" name="Asset / -l / Background" x="0" y="306" width="20" height="200" />
+                  </frame>
+                </frame>
+                <frame id="38:2283" name="-r" x="355" y="0" width="20" height="812">
+                  <frame id="38:2284" name="-r / Background" x="0" y="0" width="20" height="812">
+                    <instance id="38:2288" name="Asset / -r / Background" x="0" y="306" width="20" height="200" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:2291" name="02 Hero / 静止状態::after" x="0" y="753.2000122070312" width="375" height="73.5">
+                <frame id="38:2292" name="02 Hero / 静止状態::after / Background" x="0" y="0" width="375" height="73.5">
+                  <instance id="38:2303" name="Asset / 02 Hero / 静止状態::after / Background" x="-107.97738647460938" y="0" width="590.9547729492188" height="73.5" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2313" name="03 About" x="0" y="812" width="375" height="1470.453125">
+              <frame id="38:2314" name="p-index_intro__main js-anim_elm -zigzag1 is-act" x="20" y="49" width="335" height="1192.796875">
+                <frame id="38:2315" name="p-index_intro__head js-anim_elm -base1 base1 is-act" x="0" y="0" width="335" height="169.484375">
+                  <frame id="38:2316" name="c-title02" x="12.984375" y="132.734375" width="174.359375" height="23.765625">
+                    <frame id="38:2317" name="sub" x="0" y="1.484375" width="40.03125" height="20.796875">
+                      <text id="38:2318" name="About" x="0" y="0" width="41" height="19" />
+                    </frame>
+                    <frame id="38:2319" name="main" x="53.015625" y="0" width="121.34375" height="23.765625">
+                      <text id="38:2320" name="私たちについて" x="17.828125" y="1" width="104" height="21" />
+                      <frame id="38:2321" name="main::before" x="0" y="8.90625" width="5.5625" height="5.5625" />
+                    </frame>
+                  </frame>
+                  <frame id="38:2322" name="p-index_intro__copy" x="0" y="0" width="335" height="169.484375">
+                    <frame id="38:2323" name="PICTURE" x="0" y="0" width="335" height="169.484375">
+                      <frame id="38:2324" name="湘南の未来に、こんなに本気な会社、ある？" x="0" y="0" width="335" height="169.484375">
+                        <instance id="38:2352" name="Asset / 湘南の未来に、こんなに本気な会社、ある？" x="0" y="-0.0048363097012043" width="335" height="169.49404907226562" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2379" name="p-index_intro__text" x="0" y="201.8125" width="335" height="676">
+                  <frame id="38:2380" name="js-anim_elm -base1 base1 is-act" x="0" y="0" width="335" height="207">
+                    <text id="38:2381" name="豊かな自然と人のつながりが息づく湘南エリア。" x="3.25" y="6" width="329" height="21" />
+                    <text id="38:2382" name="ユーミーらいふは、この街の人々の" x="47.5" y="40.5" width="240" height="21" />
+                    <text id="38:2383" name="「住む」「学ぶ」「守る」「働く」「楽しむ」といっ" x="6.25" y="75" width="360" height="21" />
+                    <text id="38:2384" name="た" x="160" y="109.5" width="15" height="21" />
+                    <text id="38:2385" name="“くらしの全部”に関わる、多層的な事業を展開し" x="2.1875" y="144" width="331" height="21" />
+                    <text id="38:2386" name="ています。" x="130.75" y="178.5" width="74" height="21" />
+                  </frame>
+                  <frame id="38:2387" name="js-anim_elm -base1 base1 is-act" x="0" y="355.5" width="335" height="207">
+                    <text id="38:2388" name="不動産をはじめ、設計・建設・公共事業・教育・" x="2.5" y="6" width="330" height="21" />
+                    <text id="38:2389" name="リユース事業、" x="115.375" y="40.5" width="105" height="21" />
+                    <text id="38:2390" name="高齢者の生活支援まで、" x="85.296875" y="75" width="165" height="21" />
+                    <text id="38:2391" name="湘南に根ざし、湘南の魅力を活かしながら、" x="17.5" y="109.5" width="300" height="21" />
+                    <text id="38:2392" name="一人ひとりのくらしに寄り添い、支えていきま" x="10.59375" y="144" width="314" height="21" />
+                    <text id="38:2393" name="す。" x="153.25" y="178.5" width="29" height="21" />
+                  </frame>
+                  <frame id="38:2394" name="js-anim_elm -base1 base1 is-act" x="0" y="585" width="335" height="91">
+                    <frame id="38:2395" name="bubble" x="34" y="0" width="267" height="48">
+                      <frame id="38:2396" name="湘南の未来に、とことん本気。" x="0" y="0" width="267" height="48">
+                        <instance id="38:2419" name="Asset / 湘南の未来に、とことん本気。" x="0" y="0" width="267" height="48" />
+                      </frame>
+                    </frame>
+                    <text id="38:2441" name="それが、私たちユーミーらいふです。" x="40.890625" y="62.5" width="254" height="21" />
+                  </frame>
+                </frame>
+                <frame id="38:2442" name="p-index_intro__bottom" x="-20" y="957.796875" width="375" height="235">
+                  <frame id="38:2443" name="p-index_intro__bottom-img js-anim_elm -base1 base1 is-act" x="0" y="0" width="375" height="235">
+                    <rounded-rectangle id="38:2444" name="IMG" x="0" y="0" width="375" height="235" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:2445" name="p-index_intro__en js-anim_elm -base1 base1 is-act" x="0" y="1344.953125" width="375" height="76.5">
+                <frame id="38:2446" name="swiper js-endless-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="0" width="375" height="76.5">
+                  <frame id="38:2447" name="swiper-wrapper" x="-276.5321350097656" y="0" width="375" height="76.5">
+                    <frame id="38:2448" name="swiper-slide swiper-slide-next swiper-slide-prev" x="0" y="0" width="833.765625" height="76.5">
+                      <frame id="38:2449" name="CHANGE! in YOU&amp;ME LIFE" x="15.296875" y="0.015625" width="818.46875" height="76.484375">
+                        <instance id="38:2521" name="Asset / CHANGE! in YOU&amp;ME LIFE" x="-0.0066964286379516125" y="0" width="818.4821166992188" height="76.484375" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2592" name="u-bg-yellow-100" x="0" y="2282.453125" width="375" height="254.46875">
+              <frame id="38:2593" name="c-container" x="20" y="0" width="334.984375" height="254.46875">
+                <frame id="38:2594" name="c-bnr-rich c-hover-img hover-img js-anim_elm -base1 base1 is-act" x="0" y="0" width="334.984375" height="254.46875">
+                  <frame id="38:2595" name="PICTURE" x="0" y="0" width="334.984375" height="254.46875">
+                    <rounded-rectangle id="38:2596" name="50th 特設ページ" x="0" y="0" width="334.984375" height="254.46875" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2597" name="05 Project" x="0" y="3582.1875" width="375" height="841.6875">
+              <frame id="38:2598" name="p-index_project__gallery js-anim_elm -base1 base1 -zigzag1 is-act" x="0" y="57.328125" width="375" height="211.84375">
+                <frame id="38:2599" name="swiper js-endless-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="0" width="375" height="104">
+                  <frame id="38:2600" name="swiper-wrapper" x="-281.6470947265625" y="0" width="375" height="104">
+                    <frame id="38:2601" name="swiper-slide swiper-slide-next swiper-slide-prev" x="0" y="0" width="849.1875" height="104">
+                      <rounded-rectangle id="38:2602" name="湘南活性化プロジェクトのギャラリー" x="3.84375" y="0.015625" width="845.34375" height="103.984375" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2603" name="swiper js-endless-slider -reverse swiper-initialized swiper-horizontal swiper-backface-hidden" x="0" y="107.84375" width="375" height="104">
+                  <frame id="38:2604" name="swiper-wrapper" x="-567.8643798828125" y="0" width="375" height="104">
+                    <frame id="38:2605" name="swiper-slide clone swiper-slide-active" x="0" y="0" width="849.671875" height="104">
+                      <rounded-rectangle id="38:2606" name="湘南活性化プロジェクトのギャラリー" x="3.84375" y="0.015625" width="845.828125" height="103.984375" />
+                    </frame>
+                    <frame id="38:2607" name="swiper-slide swiper-slide-next" x="849.671875" y="0" width="849.671875" height="104">
+                      <rounded-rectangle id="38:2608" name="湘南活性化プロジェクトのギャラリー" x="3.84375" y="0.015625" width="845.828125" height="103.984375" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="38:2609" name="c-brush -i01 zigzag1 -left" x="18.75" y="-22" width="44" height="44">
+                  <frame id="38:2610" name="js-svg replaced-svg" x="-3.4860305786132812" y="-3.486083984375" width="50.97206115722656" height="50.97216796875">
+                    <instance id="38:2615" name="Asset / js-svg replaced-svg" x="0" y="0" width="50.97206115722656" height="50.97216796875" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:2619" name="c-container" x="20" y="159.171875" width="334.984375" height="522.515625">
+                <frame id="38:2620" name="p-index_project__text-area js-anim_elm -base1 base1 -zigzag1 is-act" x="0" y="0" width="334.984375" height="522.515625">
+                  <frame id="38:2621" name="c-brush -i03 zigzag1 -delay1" x="209.484375" y="-25.199951171875" width="84" height="84">
+                    <frame id="38:2622" name="js-svg replaced-svg" x="0" y="0" width="84" height="84">
+                      <instance id="38:2626" name="Asset / js-svg replaced-svg" x="0" y="0" width="84" height="84" />
+                    </frame>
+                  </frame>
+                  <frame id="38:2629" name="p-index_project__char" x="67.484375" y="503.5048828125" width="200" height="190.109375">
+                    <rounded-rectangle id="38:2630" name="あんなこともこんなことも、湘南のために！" x="0" y="0" width="200" height="190.109375" />
+                  </frame>
+                  <frame id="38:2631" name="c-brush -i01 zigzag1 -left" x="-17.200000762939453" y="496.515625" width="86" height="52">
+                    <frame id="38:2632" name="js-svg replaced-svg" x="-6.299306869506836" y="-13.138671875" width="98.5986099243164" height="78.27734375">
+                      <instance id="38:2636" name="Asset / js-svg replaced-svg" x="0" y="0" width="98.5986099243164" height="78.27734375" />
+                    </frame>
+                  </frame>
+                  <frame id="38:2639" name="c-brush -i02 zigzag1 -right" x="295.984375" y="60.28125" width="65" height="40.1875">
+                    <frame id="38:2640" name="js-svg replaced-svg" x="-5.69268798828125" y="-13.557861328125" width="76.3853759765625" height="67.30322265625">
+                      <instance id="38:2645" name="Asset / js-svg replaced-svg" x="0" y="0" width="76.3853759765625" height="67.30322265625" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2649" name="08 Recruit" x="0" y="7670.6875" width="375" height="806.34375">
+              <frame id="38:2650" name="p-index_recruit__container" x="0" y="0" width="375" height="806.34375">
+                <frame id="38:2651" name="p-index_recruit__bg" x="0" y="0" width="375" height="806.34375">
+                  <rounded-rectangle id="38:2652" name="IMG" x="0" y="0" width="375" height="806.34375" />
+                </frame>
+                <frame id="38:2653" name="p-index_recruit__row" x="20" y="0" width="335" height="616.34375">
+                  <frame id="38:2654" name="p-index_recruit__text-area" x="0" y="229.828125" width="335" height="386.515625">
+                    <frame id="38:2655" name="c-section-title-primary -white" x="0" y="0" width="335" height="168.546875">
+                      <frame id="38:2656" name="c-title02" x="0" y="0" width="335" height="23.765625">
+                        <frame id="38:2657" name="sub" x="0" y="1.484375" width="46.65625" height="20.796875">
+                          <text id="38:2658" name="Recruit" x="0" y="0" width="47" height="19" />
+                        </frame>
+                        <frame id="38:2659" name="main" x="59.640625" y="0" width="77.234375" height="23.765625">
+                          <text id="38:2660" name="採用情報" x="17.828125" y="1" width="60" height="21" />
+                          <frame id="38:2661" name="main::before" x="0" y="8.90625" width="5.5625" height="5.5625" />
+                        </frame>
+                      </frame>
+                      <frame id="38:2662" name="copy" x="0" y="34.15625" width="335" height="134.390625">
+                        <text id="38:2663" name="湘南のまんなかで、" x="0" y="2" width="251" height="40" />
+                        <text id="38:2664" name="くらしをつくる仕事があ" x="0" y="46.796875" width="308" height="40" />
+                        <text id="38:2665" name="る。" x="0" y="91.59375" width="56" height="40" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2666" name="P" x="0" y="196.53125" width="335" height="112">
+                      <text id="38:2667" name="住まい、教育、福祉、まちづくりまで。" x="0" y="4" width="252" height="20" />
+                      <text id="38:2668" name="“くらしの全部”に関わるからこそ、働くことが湘南" x="0" y="32" width="323" height="20" />
+                      <text id="38:2669" name="の未来につながっていきます。" x="0" y="60" width="194" height="20" />
+                      <text id="38:2670" name="そんな会社、ちょっと気になりませんか？" x="0" y="88" width="266" height="20" />
+                    </frame>
+                    <instance id="38:2684" name="c-button-primary -white u-mt40" x="0" y="332.515625" width="218" height="54" />
+                  </frame>
+                  <frame id="38:2696" name="p-index_recruit__img-area" x="0" y="0" width="335" height="229.828125">
+                    <frame id="38:2697" name="p-index_recruit__img" x="0" y="-60" width="335" height="289.828125">
+                      <rounded-rectangle id="38:2698" name="IMG" x="0" y="0" width="335" height="289.828125" />
+                    </frame>
+                    <frame id="38:2699" name="c-brush -i01 -orange zigzag1 -left" x="-48" y="-6.39990234375" width="32" height="32">
+                      <frame id="38:2700" name="js-svg replaced-svg" x="0" y="0" width="32" height="32">
+                        <instance id="38:2705" name="Asset / js-svg replaced-svg" x="0" y="0" width="32" height="32" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2709" name="c-brush -i02 zigzag1 -right -delay1" x="293.5" y="164.6044921875" width="83" height="50.171875">
+                      <frame id="38:2710" name="js-svg replaced-svg" x="-4.5794677734375" y="-8.6923828125" width="92.158935546875" height="67.55712890625">
+                        <instance id="38:2714" name="Asset / js-svg replaced-svg" x="0" y="0" width="92.158935546875" height="67.55712890625" />
+                      </frame>
+                    </frame>
+                    <frame id="38:2717" name="c-brush -i03 -pink zigzag1 -right" x="221.25" y="207.5859375" width="87.5" height="44.484375">
+                      <frame id="38:2718" name="js-svg replaced-svg" x="0" y="0" width="87.5" height="44.484375">
+                        <instance id="38:2723" name="Asset / js-svg replaced-svg" x="0" y="0" width="87.5" height="44.484375" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2727" name="p-index_recruit__char" x="47.5" y="636.84375" width="240" height="169.5">
+                    <rounded-rectangle id="38:2728" name="湘南LOVERS集まれ〜！" x="0" y="0" width="240" height="169.5" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2729" name="p-index_business-wrapper" x="0" y="2536.921875" width="375" height="1045.265625">
+              <frame id="38:2730" name="p-index_business-wrapper::before" x="0" y="929.59375" width="375" height="115.640625" />
+              <frame id="38:2731" name="04 Business" x="0" y="40" width="375" height="1005.265625">
+                <frame id="38:2732" name="p-index_business__container" x="0" y="0" width="375" height="1005.265625">
+                  <frame id="38:2733" name="c-container" x="20" y="57.328125" width="334.984375" height="890.609375">
+                    <frame id="38:2734" name="p-index_business__row" x="0" y="0" width="334.984375" height="595.484375">
+                      <frame id="38:2735" name="p-index_business__text-area" x="0" y="0" width="334.984375" height="296.921875">
+                        <frame id="38:2736" name="c-section-title-primary" x="0" y="0" width="334.984375" height="78.953125">
+                          <frame id="38:2737" name="c-title02" x="0" y="0" width="334.984375" height="23.765625">
+                            <frame id="38:2738" name="sub" x="0" y="1.484375" width="58.390625" height="20.796875">
+                              <text id="38:2739" name="Business" x="0" y="0" width="59" height="19" />
+                            </frame>
+                            <frame id="38:2740" name="main" x="71.375" y="0" width="77.234375" height="23.765625">
+                              <text id="38:2741" name="事業紹介" x="17.828125" y="1" width="60" height="21" />
+                              <frame id="38:2742" name="main::before" x="0" y="8.90625" width="5.5625" height="5.5625" />
+                            </frame>
+                          </frame>
+                          <frame id="38:2743" name="copy" x="0" y="34.15625" width="334.984375" height="44.796875">
+                            <text id="38:2744" name="ユーミーらいふの" x="0" y="2" width="224" height="40" />
+                            <frame id="38:2745" name="inline-block" x="223.921875" y="0" width="55.984375" height="44.796875">
+                              <text id="38:2746" name="事業" x="0" y="2" width="56" height="40" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:2747" name="P" x="0" y="106.9375" width="334.984375" height="112">
+                          <text id="38:2748" name="「ヒト・モノ・コト」という3つの視点から、湘南の" x="0" y="4" width="330" height="20" />
+                          <text id="38:2749" name="未来に本気で投資。" x="0" y="32" width="126" height="20" />
+                          <text id="38:2750" name="多角的に展開するユーミーらいふの事業全体像をご" x="0" y="60" width="322" height="20" />
+                          <text id="38:2751" name="紹介します。" x="0" y="88" width="83" height="20" />
+                        </frame>
+                        <instance id="38:2765" name="c-button-primary u-mt40" x="0" y="242.921875" width="218" height="54" />
+                      </frame>
+                      <frame id="38:2777" name="p-index_business__gallery" x="-57.5" y="356.90625" width="449.984375" height="238.578125">
+                        <frame id="38:2778" name="c-brush -i03 zigzag1 -delay1" x="114.5843734741211" y="-20.39990234375" width="68.00000762939453" height="68">
+                          <frame id="38:2779" name="js-svg replaced-svg" x="0" y="0" width="68.00000762939453" height="68">
+                            <instance id="38:2783" name="Asset / js-svg replaced-svg" x="0" y="0" width="68.00000762939453" height="68" />
+                          </frame>
+                        </frame>
+                        <frame id="38:2786" name="swiper js-index-business-slider u-radius-16 -i01 swiper-initialized swiper-horizontal swiper-backfac" x="0" y="0" width="144.65625" height="210.40625">
+                          <frame id="38:2787" name="swiper-wrapper" x="-290" y="0" width="144.65625" height="210.40625">
+                            <frame id="38:2788" name="swiper-slide swiper-slide-active" x="290" y="0" width="145" height="210.40625">
+                              <rounded-rectangle id="38:2789" name="事業紹介のギャラリー" x="0" y="0" width="145" height="210.40625" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:2790" name="swiper js-index-business-slider u-radius-16 -i02 swiper-initialized swiper-horizontal swiper-backfac" x="152.65625" y="28.15625" width="144.671875" height="210.421875">
+                          <frame id="38:2791" name="swiper-wrapper" x="-290" y="0" width="144.671875" height="210.421875">
+                            <frame id="38:2792" name="swiper-slide swiper-slide-active" x="290" y="0" width="145" height="210.421875">
+                              <rounded-rectangle id="38:2793" name="事業紹介のギャラリー" x="0" y="0" width="145" height="210.421875" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:2794" name="swiper js-index-business-slider u-radius-16 -i03 swiper-initialized swiper-horizontal swiper-backfac" x="305.328125" y="0" width="144.65625" height="210.40625">
+                          <frame id="38:2795" name="swiper-wrapper" x="-290" y="0" width="144.65625" height="210.40625">
+                            <frame id="38:2796" name="swiper-slide swiper-slide-active" x="290" y="0" width="145" height="210.40625">
+                              <rounded-rectangle id="38:2797" name="事業紹介のギャラリー" x="0" y="0" width="145" height="210.40625" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:2798" name="c-brush -i02 zigzag1 -right" x="265.93438720703125" y="187.95947265625" width="58.5" height="36.15625">
+                          <frame id="38:2799" name="js-svg replaced-svg" x="-5.120330810546875" y="-12.203125" width="68.74063110351562" height="60.562255859375">
+                            <instance id="38:2804" name="Asset / js-svg replaced-svg" x="0" y="0" width="68.74063110351562" height="60.562255859375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="38:2808" name="c-bnr-rich c-hover-img hover-img u-mt80 js-anim_elm -base2 base2 is-act" x="0" y="636.140625" width="334.984375" height="254.46875">
+                      <frame id="38:2809" name="PICTURE" x="0" y="0" width="334.984375" height="254.46875">
+                        <rounded-rectangle id="38:2810" name="3分でわかる！ユーミーらいふ" x="0" y="0" width="334.984375" height="254.46875" />
+                      </frame>
+                      <frame id="38:2811" name="c-arrow" x="263.328125" y="182.8125" width="56" height="56">
+                        <frame id="38:2812" name="c-icon" x="24.75" y="21.5" width="6.5" height="13">
+                          <frame id="38:2813" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                            <instance id="38:2814" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2817" name="06 News" x="0" y="4383.875" width="375" height="961.703125">
+              <frame id="38:2818" name="c-container" x="20" y="57.328125" width="334.984375" height="830.375">
+                <frame id="38:2819" name="c-section-title-primary js-anim_elm -base1 base1 is-act" x="0" y="0" width="334.984375" height="78.953125">
+                  <frame id="38:2820" name="c-title02" x="0" y="0" width="334.984375" height="23.765625">
+                    <frame id="38:2821" name="sub" x="0" y="1.484375" width="35.609375" height="20.796875">
+                      <text id="38:2822" name="News" x="0" y="0" width="36" height="19" />
+                    </frame>
+                    <frame id="38:2823" name="main" x="48.59375" y="0" width="76.5" height="23.765625">
+                      <text id="38:2824" name="ニュース" x="17.828125" y="1" width="59" height="21" />
+                      <frame id="38:2825" name="main::before" x="0" y="8.90625" width="5.5625" height="5.5625" />
+                    </frame>
+                  </frame>
+                  <frame id="38:2826" name="copy" x="0" y="34.15625" width="334.984375" height="44.796875">
+                    <text id="38:2827" name="お知らせ・イベント情報" x="0" y="2" width="308" height="40" />
+                  </frame>
+                </frame>
+                <frame id="38:2828" name="c-news-cats u-mb30 js-anim_elm -base1 base1 is-act" x="0" y="106.9375" width="334.984375" height="185.390625">
+                  <frame id="38:2829" name="u-set-news-color -all -current" x="0" y="0" width="94.84375" height="39">
+                    <text id="38:2830" name="すべて" x="34.1875" y="9" width="41" height="20" />
+                    <frame id="38:2831" name="u-set-news-color -all -current::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2832" name="u-set-news-color -event" x="104.640625" y="0" width="110.375" height="39">
+                    <text id="38:2833" name="イベント" x="34.1875" y="9" width="56" height="20" />
+                    <frame id="38:2834" name="u-set-news-color -event::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2835" name="u-set-news-color -news" x="224.8125" y="0" width="110.109375" height="39">
+                    <text id="38:2836" name="お知らせ" x="34.1875" y="9" width="56" height="20" />
+                    <frame id="38:2837" name="u-set-news-color -news::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2838" name="u-set-news-color -seminar" x="0" y="48.796875" width="110.375" height="39">
+                    <text id="38:2839" name="セミナー" x="34.1875" y="9" width="56" height="20" />
+                    <frame id="38:2840" name="u-set-news-color -seminar::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2841" name="u-set-news-color -press" x="120.171875" y="48.796875" width="137.96875" height="39">
+                    <text id="38:2842" name="プレスルーム" x="34.1875" y="9" width="84" height="20" />
+                    <frame id="38:2843" name="u-set-news-color -press::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2844" name="u-set-news-color -project" x="0" y="97.59375" width="194.375" height="39">
+                    <text id="38:2845" name="プロジェクトレポート" x="34.1875" y="9" width="140" height="20" />
+                    <frame id="38:2846" name="u-set-news-color -project::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2847" name="u-set-news-color -recruit" x="204.171875" y="97.59375" width="82.375" height="39">
+                    <text id="38:2848" name="採用" x="34.1875" y="9" width="28" height="20" />
+                    <frame id="38:2849" name="u-set-news-color -recruit::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                  <frame id="38:2850" name="u-set-news-color -store-info" x="0" y="146.390625" width="110.375" height="39">
+                    <text id="38:2851" name="出店情報" x="34.1875" y="9" width="56" height="20" />
+                    <frame id="38:2852" name="u-set-news-color -store-info::before" x="20.1875" y="16.875" width="5.25" height="5.25" />
+                  </frame>
+                </frame>
+                <frame id="38:2853" name="c-news-link-card-slider js-anim_elm -base1 base1 is-act" x="0" y="312.15625" width="334.984375" height="518.21875">
+                  <frame id="38:2854" name="p-index_news__nav" x="0" y="398.234375" width="334.984375" height="119.984375">
+                    <frame id="38:2855" name="c-slider-controller" x="0" y="0" width="334.984375" height="32">
+                      <frame id="38:2856" name="c-slider-scrollbar js-slider-scrollbar swiper-scrollbar-horizontal" x="0" y="14" width="134.984375" height="4">
+                        <frame id="38:2857" name="swiper-scrollbar-drag" x="0" y="0" width="18.5625" height="4" />
+                      </frame>
+                      <frame id="38:2858" name="c-slider-controller__buttons" x="166.984375" y="0" width="168" height="32">
+                        <frame id="38:2859" name="c-slider-button js-slider-button -prev swiper-button-disabled" x="0" y="0" width="80" height="32">
+                          <frame id="38:2860" name="c-icon" x="36.75" y="9.5" width="6.5" height="13">
+                            <frame id="38:2861" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                              <instance id="38:2862" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                            </frame>
+                          </frame>
+                        </frame>
+                        <frame id="38:2865" name="c-slider-button js-slider-button -next" x="88" y="0" width="80" height="32">
+                          <frame id="38:2866" name="c-icon" x="36.75" y="9.5" width="6.5" height="13">
+                            <frame id="38:2867" name="js-svg replaced-svg" x="0" y="0" width="6.5" height="13">
+                              <instance id="38:2868" name="Asset / js-svg replaced-svg" x="0" y="0" width="6.5" height="13" />
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                    <instance id="38:2884" name="c-button-primary -center" x="58.984375" y="65.984375" width="217" height="54" />
+                  </frame>
+                  <frame id="38:2896" name="swiper js-flexible-slider swiper-initialized swiper-horizontal swiper-backface-hidden" x="-4" y="0" width="342.984375" height="374.25">
+                    <frame id="38:2897" name="swiper-wrapper" x="0" y="0" width="342.984375" height="374.25">
+                      <frame id="38:2898" name="swiper-slide swiper-slide-active" x="0" y="0" width="311.796875" height="374.25">
+                        <frame id="38:2899" name="c-news-link-card u-set-news-color -%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc%e" x="4" y="0" width="303.796875" height="374.25">
+                          <frame id="38:2900" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="303.796875" height="374.25">
+                            <frame id="38:2901" name="c-news-link-card__head hover-img u-radius-8" x="17.328125" y="17.328125" width="269.140625" height="201.65625">
+                              <rounded-rectangle id="38:2902" name=" wp-post-image" x="0" y="0" width="269.140625" height="201.65625" />
+                            </frame>
+                            <frame id="38:2903" name="c-news-link-card__body" x="17.328125" y="238.984375" width="269.140625" height="114.609375">
+                              <frame id="38:2904" name="c-news-link-card__meta" x="0" y="0" width="269.140625" height="21">
+                                <frame id="38:2905" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="69.1875" height="21">
+                                  <text id="38:2906" name="2026.10.20" x="0" y="2" width="70" height="17" />
+                                </frame>
+                                <frame id="38:2907" name="c-news-link-card__cats" x="83.1875" y="0.625" width="118.4375" height="19.75">
+                                  <frame id="38:2908" name="cat u-color-news" x="0" y="0" width="118.4375" height="19.75">
+                                    <text id="38:2909" name="イベントレポート" x="13.15625" y="0" width="106" height="19" />
+                                    <frame id="38:2910" name="cat u-color-news::before" x="0" y="7.40625" width="4.9375" height="4.9375" />
+                                  </frame>
+                                </frame>
+                              </frame>
+                              <frame id="38:2911" name="c-news-link-card__title" x="0" y="28" width="269.140625" height="86.609375">
+                                <frame id="38:2912" name="hover-text" x="0" y="2" width="266.234375" height="80.96875">
+                                  <text id="38:2913" name="【イベントレポート】ものづくりで、" x="0" y="0" width="266" height="23" />
+                                  <text id="38:2914" name="人とまちをつなぐ。茅ヶ崎高砂でハロ" x="0" y="28.203125" width="267" height="23" />
+                                  <text id="38:2915" name="ウィンイベントを開催" x="0" y="56.40625" width="157" height="23" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="38:2916" name="swiper-slide swiper-slide-next" x="311.796875" y="0" width="311.796875" height="373.796875">
+                        <frame id="38:2917" name="c-news-link-card u-set-news-color -%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc%e" x="4" y="0" width="303.796875" height="373.796875">
+                          <frame id="38:2918" name="c-hover-text c-hover-img u-radius-16" x="0" y="0" width="303.796875" height="373.796875">
+                            <frame id="38:2919" name="c-news-link-card__head hover-img u-radius-8" x="17.328125" y="17.328125" width="269.140625" height="201.65625">
+                              <rounded-rectangle id="38:2920" name=" wp-post-image" x="0" y="0" width="269.140625" height="201.65625" />
+                            </frame>
+                            <frame id="38:2921" name="c-news-link-card__body" x="17.328125" y="238.984375" width="269.140625" height="114.15625">
+                              <frame id="38:2922" name="c-news-link-card__meta" x="0" y="0" width="269.140625" height="21">
+                                <frame id="38:2923" name="c-news-link-card__time u-font-sen u-color-gray-100" x="0" y="0" width="69.1875" height="21">
+                                  <text id="38:2924" name="2026.10.03" x="0" y="2" width="70" height="17" />
+                                </frame>
+                              </frame>
+                              <frame id="38:2925" name="c-news-link-card__title" x="0" y="28" width="269.140625" height="86.15625">
+                                <frame id="38:2926" name="hover-text" x="0" y="2" width="258.390625" height="52.765625">
+                                  <text id="38:2927" name="【新卒研修】マナー研修を実施｜半年" x="0" y="0" width="267" height="23" />
+                                  <text id="38:2928" name="後の「先輩」を見据えて" x="0" y="28.203125" width="172" height="23" />
+                                </frame>
+                              </frame>
+                            </frame>
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="38:2929" name="07 Company" x="0" y="5305.578125" width="375" height="2266.109375">
+              <frame id="38:2930" name="p-index_company__bg" x="0" y="0" width="375" height="2266.109375" />
+              <frame id="38:2931" name="07 Company::before" x="0" y="2217.109375" width="375" height="49" />
+              <frame id="38:2932" name="c-container" x="20" y="57.328125" width="334.984375" height="2208.78125">
+                <frame id="38:2933" name="js-index-company-sticky" x="0" y="0" width="334.984375" height="2208.78125">
+                  <frame id="38:2934" name="p-index_company-sticky__head" x="0" y="0" width="334.984375" height="165.734375">
+                    <frame id="38:2935" name="p-index_company-sticky__head__inner js-index-company-title" x="0" y="0" width="334.984375" height="165.734375">
+                      <frame id="38:2936" name="c-section-title-primary js-anim_elm -base1 base1 is-act" x="0" y="0" width="334.984375" height="165.734375">
+                        <frame id="38:2937" name="c-title02" x="0" y="0" width="334.984375" height="23.765625">
+                          <frame id="38:2938" name="sub" x="0" y="1.484375" width="65.9375" height="20.796875">
+                            <text id="38:2939" name="Company" x="0" y="0" width="66" height="19" />
+                          </frame>
+                          <frame id="38:2940" name="main" x="78.921875" y="0" width="77.234375" height="23.765625">
+                            <text id="38:2941" name="会社案内" x="17.828125" y="1" width="60" height="21" />
+                            <frame id="38:2942" name="main::before" x="0" y="8.90625" width="5.5625" height="5.5625" />
+                          </frame>
+                        </frame>
+                        <frame id="38:2943" name="copy" x="0" y="34.15625" width="334.984375" height="89.59375">
+                          <text id="38:2944" name="湘南で生まれ、" x="0" y="2" width="197" height="40" />
+                          <text id="38:2945" name="育ち、進化しつづける会社" x="0" y="46.796875" width="335" height="40" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2946" name="p-index_company-sticky__item -i01" x="0" y="165.734375" width="334.984375" height="727.234375">
+                    <frame id="38:2947" name="p-index_company-sticky__item__inner" x="0" y="0" width="334.984375" height="727.234375">
+                      <frame id="38:2948" name="p-index_company-panel -company -i01" x="-20" y="0" width="374.984375" height="727.234375">
+                        <frame id="38:2949" name="p-index_company-panel__index u-font-sen" x="0" y="0" width="101.859375" height="37.984375">
+                          <frame id="38:2950" name="text" x="41.640625" y="1.71875" width="18.5625" height="34.53125">
+                            <text id="38:2951" name="01" x="0" y="6" width="19" height="21" />
+                          </frame>
+                          <frame id="38:2952" name="p-index_company-panel__index u-font-sen::after" x="100.859375" y="23.984375" width="14" height="14" />
+                        </frame>
+                        <frame id="38:2953" name="p-index_company-panel__body" x="0" y="36.984375" width="374.984375" height="690.25">
+                          <frame id="38:2954" name="p-index_company-panel__bg" x="0" y="0" width="374.984375" height="690.25">
+                            <rounded-rectangle id="38:2955" name="IMG" x="0" y="0" width="374.984375" height="690.25" />
+                          </frame>
+                          <frame id="38:2956" name="p-index_company-panel__text-area" x="17.328125" y="50" width="340.328125" height="251.828125">
+                            <frame id="38:2957" name="p-index_company-panel__title" x="10" y="0" width="320.328125" height="71.671875">
+                              <frame id="38:2958" name="sub" x="0" y="0" width="320.328125" height="26.875">
+                                <text id="38:2959" name="ユーミーらいふを" x="0" y="1" width="135" height="24" />
+                              </frame>
+                              <text id="38:2960" name="知る" x="0" y="28.875" width="56" height="40" />
+                            </frame>
+                            <frame id="38:2961" name="P" x="10" y="85.671875" width="320.328125" height="84">
+                              <text id="38:2962" name="企業理念や事業内容を簡潔にご紹介。" x="0" y="4" width="238" height="20" />
+                              <text id="38:2963" name="思っている以上に、暮らしの広い領域で活躍して" x="0" y="32" width="307" height="20" />
+                              <text id="38:2964" name="います。" x="0" y="60" width="55" height="20" />
+                            </frame>
+                            <instance id="38:2978" name="c-button-primary -white u-mt50" x="10" y="197.828125" width="217" height="54" />
+                          </frame>
+                          <frame id="38:2990" name="p-index_company-panel__img" x="17.328125" y="331.828125" width="340.328125" height="278.4375">
+                            <rounded-rectangle id="38:2991" name="u-radius-16" x="0" y="0" width="340.328125" height="278.4375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:2992" name="p-index_company-sticky__item -i02" x="0" y="892.96875" width="334.984375" height="671.90625">
+                    <frame id="38:2993" name="p-index_company-sticky__item__inner" x="0" y="0" width="334.984375" height="671.90625">
+                      <frame id="38:2994" name="p-index_company-panel -history -i02" x="-20" y="-55.328125" width="374.984375" height="727.234375">
+                        <frame id="38:2995" name="p-index_company-panel__index u-font-sen" x="0" y="0" width="101.859375" height="37.984375">
+                          <frame id="38:2996" name="text" x="41.640625" y="1.71875" width="18.5625" height="34.53125">
+                            <text id="38:2997" name="02" x="0" y="6" width="19" height="21" />
+                          </frame>
+                          <frame id="38:2998" name="p-index_company-panel__index u-font-sen::after" x="100.859375" y="23.984375" width="14" height="14" />
+                        </frame>
+                        <frame id="38:2999" name="p-index_company-panel__body" x="0" y="36.984375" width="374.984375" height="690.25">
+                          <frame id="38:3000" name="p-index_company-panel__bg" x="0" y="0" width="374.984375" height="690.25">
+                            <rounded-rectangle id="38:3001" name="IMG" x="0" y="0" width="374.984375" height="690.25" />
+                          </frame>
+                          <frame id="38:3002" name="p-index_company-panel__text-area" x="17.328125" y="50" width="340.328125" height="251.828125">
+                            <frame id="38:3003" name="p-index_company-panel__title" x="10" y="0" width="320.328125" height="71.671875">
+                              <frame id="38:3004" name="sub" x="0" y="0" width="320.328125" height="26.875">
+                                <text id="38:3005" name="ユーミーらいふの" x="0" y="1" width="135" height="24" />
+                              </frame>
+                              <text id="38:3006" name="歩み" x="0" y="28.875" width="56" height="40" />
+                            </frame>
+                            <frame id="38:3007" name="P" x="10" y="85.671875" width="320.328125" height="84">
+                              <text id="38:3008" name="湘南で積み上げてきた歴史と歩みをまとめまし" x="0" y="4" width="294" height="20" />
+                              <text id="38:3009" name="た。" x="0" y="32" width="28" height="20" />
+                              <text id="38:3010" name="“20社以上の分社化”の背景も、ここにあります。" x="0" y="60" width="309" height="20" />
+                            </frame>
+                            <instance id="38:3023" name="c-button-primary -white u-mt50" x="10" y="197.828125" width="217" height="54" />
+                          </frame>
+                          <frame id="38:3035" name="p-index_company-panel__img" x="17.328125" y="331.828125" width="340.328125" height="278.4375">
+                            <rounded-rectangle id="38:3036" name="u-radius-16" x="0" y="0" width="340.328125" height="278.4375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:3037" name="p-index_company-sticky__item -i03" x="0" y="1564.875" width="334.984375" height="643.90625">
+                    <frame id="38:3038" name="p-index_company-sticky__item__inner" x="0" y="0" width="334.984375" height="643.90625">
+                      <frame id="38:3039" name="p-index_company-panel -vision -i03" x="-20" y="-55.328125" width="374.984375" height="699.234375">
+                        <frame id="38:3040" name="p-index_company-panel__index u-font-sen" x="0" y="0" width="101.859375" height="37.984375">
+                          <frame id="38:3041" name="text" x="41.640625" y="1.71875" width="18.5625" height="34.53125">
+                            <text id="38:3042" name="03" x="0" y="6" width="19" height="21" />
+                          </frame>
+                          <frame id="38:3043" name="p-index_company-panel__index u-font-sen::after" x="100.859375" y="23.984375" width="14" height="14" />
+                        </frame>
+                        <frame id="38:3044" name="p-index_company-panel__body" x="0" y="36.984375" width="374.984375" height="662.25">
+                          <frame id="38:3045" name="p-index_company-panel__bg" x="0" y="0" width="374.984375" height="662.25">
+                            <rounded-rectangle id="38:3046" name="IMG" x="0" y="0" width="374.984375" height="662.25" />
+                          </frame>
+                          <frame id="38:3047" name="p-index_company-panel__text-area" x="17.328125" y="50" width="340.328125" height="223.828125">
+                            <frame id="38:3048" name="p-index_company-panel__title" x="10" y="0" width="320.328125" height="71.671875">
+                              <frame id="38:3049" name="sub" x="0" y="0" width="320.328125" height="26.875">
+                                <text id="38:3050" name="ユーミーらいふの" x="0" y="1" width="135" height="24" />
+                              </frame>
+                              <text id="38:3051" name="これから" x="0" y="28.875" width="112" height="40" />
+                            </frame>
+                            <frame id="38:3052" name="P" x="10" y="85.671875" width="320.328125" height="56">
+                              <text id="38:3053" name="SDGsや地域共創など、これからの挑戦をご紹介。" x="0" y="4" width="315" height="20" />
+                              <text id="38:3054" name="未来に向けて、変わり続ける企業です。" x="0" y="32" width="250" height="20" />
+                            </frame>
+                            <instance id="38:3067" name="c-button-primary -white u-mt50" x="10" y="169.828125" width="217" height="54" />
+                          </frame>
+                          <frame id="38:3079" name="p-index_company-panel__img" x="17.328125" y="303.828125" width="340.328125" height="278.4375">
+                            <rounded-rectangle id="38:3080" name="u-radius-16" x="0" y="0" width="340.328125" height="278.4375" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="38:3081" name="09 Footer" x="20" y="8588.515625" width="334.984375" height="1174.21875">
+          <frame id="38:3082" name="l-footer__container" x="-20" y="0" width="374.984375" height="1174.21875">
+            <frame id="38:3083" name="c-container" x="20" y="0" width="334.984375" height="1150.234375">
+              <frame id="38:3084" name="l-footer__logo" x="103.5" y="0" width="127.984375" height="111.4375">
+                <frame id="38:3085" name="l-footer__logo::before" x="-37.7734375" y="-46.0390625" width="203.515625" height="203.515625" />
+                <frame id="38:3086" name="A" x="0" y="87.4375" width="127.984375" height="20">
+                  <rounded-rectangle id="38:3087" name="ユーミーらいふ" x="0" y="-87.4375" width="127.984375" height="111.4375" />
+                </frame>
+              </frame>
+              <frame id="38:3088" name="l-footer__main" x="0" y="315.765625" width="334.984375" height="761.640625">
+                <frame id="38:3089" name="l-footer__bottom" x="0" y="585.40625" width="245" height="176.234375">
+                  <frame id="38:3090" name="l-footer-sns" x="0" y="0" width="245" height="55.984375">
+                    <frame id="38:3091" name="l-footer-sns__body" x="0" y="0" width="123.96875" height="55.984375">
+                      <frame id="38:3092" name="A" x="0" y="0" width="55.984375" height="55.984375">
+                        <frame id="38:3093" name="icon c-icon" x="0" y="0" width="55.984375" height="55.984375">
+                          <frame id="38:3094" name="IMG" x="15.984375" y="15.984375" width="24" height="24">
+                            <instance id="38:3098" name="Asset / IMG" x="0" y="0" width="24" height="24" />
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="38:3101" name="A" x="67.984375" y="0" width="55.984375" height="55.984375">
+                        <frame id="38:3102" name="icon c-icon" x="0" y="0" width="55.984375" height="55.984375">
+                          <frame id="38:3103" name="IMG" x="15.984375" y="15.984375" width="24" height="24">
+                            <instance id="38:3107" name="Asset / IMG" x="0" y="0" width="24" height="24" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:3110" name="l-footer__bottom-menu" x="0" y="76.984375" width="245" height="77">
+                    <frame id="38:3111" name="c-hover-text" x="0" y="0" width="245" height="42">
+                      <frame id="38:3112" name="hover-text" x="0" y="0" width="237.453125" height="42.390625">
+                        <text id="38:3113" name="カスタマーハラスメントに対する基本" x="0" y="0" width="238" height="20" />
+                        <text id="38:3114" name="方針" x="0" y="21" width="28" height="20" />
+                      </frame>
+                    </frame>
+                    <frame id="38:3115" name="c-hover-text" x="0" y="56" width="245" height="21">
+                      <frame id="38:3116" name="hover-text" x="0" y="0" width="139.734375" height="21.390625">
+                        <text id="38:3117" name="プライバシーポリシー" x="0" y="0" width="140" height="20" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="38:3118" name="l-footer__copyright" x="0" y="1109.734375" width="334.984375" height="40.5">
+                <text id="38:3119" name="© 2026 株式会社ユーミーホールディングス" x="39.171875" y="17.15625" width="257" height="19" />
+              </frame>
+              <frame id="38:3120" name="js-footer-cta" x="0" y="143.765625" width="334.984375" height="172">
+                <frame id="38:3121" name="c-hover-text" x="0" y="0" width="334.984375" height="172">
+                  <frame id="38:3122" name="l-footer-cta-link__title" x="28" y="28" width="278.984375" height="40">
+                    <frame id="38:3123" name="icon c-icon" x="0" y="0" width="40" height="40">
+                      <frame id="38:3124" name="js-svg replaced-svg" x="15" y="15" width="10" height="10">
+                        <instance id="38:3128" name="Asset / js-svg replaced-svg" x="0" y="0" width="10" height="10" />
+                      </frame>
+                    </frame>
+                    <frame id="38:3131" name="title" x="50" y="4" width="228.984375" height="32">
+                      <frame id="38:3132" name="hover-text" x="0" y="1" width="120" height="31">
+                        <text id="38:3133" name="お問い合わせ" x="0" y="0" width="120" height="29" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="38:3134" name="P" x="28" y="88" width="278.984375" height="56">
+                    <text id="38:3135" name="ユーミーらいふグループへのご要望やご質" x="0" y="4" width="266" height="20" />
+                    <text id="38:3136" name="問は" x="0" y="32" width="28" height="20" />
+                    <text id="38:3137" name="こちらからお問い合わせください。" x="28" y="32" width="224" height="20" />
+                  </frame>
+                  <frame id="38:3138" name="l-footer-cta-link__hand" x="244.13671875" y="112.015625" width="72.484375" height="59.984375">
+                    <frame id="38:3139" name="emp" x="-12.588668823242188" y="-29.3203125" width="34.77107238769531" height="36.2412109375" />
+                    <frame id="38:3140" name="hand" x="0" y="0" width="72.484375" height="59.984375" />
+                    <frame id="38:3141" name="hand" x="0" y="0" width="72.484375" height="59.984375" />
+                    <frame id="38:3142" name="hand" x="0" y="0" width="72.484375" height="59.984375" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="38:3143" name="js-header" x="0" y="0" width="375" height="127.9375">
+          <frame id="38:3144" name="l-header__logo" x="0" y="0" width="141" height="127.9375">
+            <frame id="38:3145" name="A" x="20" y="20" width="101" height="87.9375">
+              <rounded-rectangle id="38:3146" name="ユーミーらいふ" x="0" y="0" width="101" height="87.9375" />
+            </frame>
+          </frame>
+          <frame id="38:3147" name="l-header__inner" x="141" y="0" width="234" height="104">
+            <frame id="38:3148" name="l-header-hamburger js-drawer-button" x="150" y="20" width="64" height="64">
+              <frame id="38:3149" name="bar" x="18.828125" y="26.359375" width="26.34375" height="11.28125">
+                <frame id="38:3150" name="bar::before" x="0" y="0" width="26.34375" height="2" />
+                <frame id="38:3151" name="bar::after" x="0" y="9.28125" width="26.34375" height="2" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</canvas>

@@ -1,0 +1,16 @@
+{
+  "name": "aibou-figma-youme-life",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node serve.mjs",
+    "preview": "node serve.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "linkedom": "^0.18.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
